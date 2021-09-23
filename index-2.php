@@ -1,4 +1,4 @@
-<!-- Start of header ============= -->
+<!-- Start of header ============= --> Updated in github
 <?php include "header.php"; ?>
 <!--Ends of header ============= -->
 
