@@ -9,7 +9,7 @@
 	<meta name="keywords" content="	alternative energy, ecology, energy business, green energy, heating, hydropower, nature energy, power saving, recycling, renewable energy, solar energy, Solar Panels, wing turbines">
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
+	<link rel="shortcut icon" type="image/png" href="assets/img/favicon64.png"/>
 	<link rel="stylesheet" href="assets/css/owl.carousel.css">
 	<link rel="stylesheet" href="assets/css/fontawesome-all.css">
 	<link rel="stylesheet" href="assets/css/simple-line-icons.css">
@@ -69,34 +69,17 @@
 				</div>
 				<nav class="main_navigation desktop-menu ul-li">
 					<ul id="main-nav" class="navbar-nav text-uppercase clearfix">
-						<li class="dropdown">
-							<a href="#">Home</a>
-							<ul class="dropdown-menu clearfix">
-								<li><a href="index.php">Home Page 1</a></li>
-								<li><a href="index-2.php">Home Page 2</a></li>
-							</ul>
-						</li>
-						<li><a href="about.php">About</a></li>
-						<li class="dropdown">
-							<a href="#">Services</a>
-							<ul class="dropdown-menu clearfix">
-								<li><a href="service.php">Service</a></li>
-								<li><a href="service-single.php">Details</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#"> News</a>
-							<ul class="dropdown-menu clearfix">
-								<li><a href="blog.php">Blog</a></li>
-								<li><a href="blog-single.php">Details</a></li>
-							</ul>
-						</li>
-						<li><a href="#">Gallery</a></li>
-						<li><a href="contact.php">Contact</a></li>
+					<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="service.php">Products</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="gallery.php">Gallery</a></li>							
+							<li><a href="contact.php">Support</a></li>
+							<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</nav>
 				<div class="site-search-btn float-right">
-					<div class="el-search position-relative">
+					<!-- <div class="el-search position-relative">
 						<i class="el-search-btn fas fa-search"></i>
 						<div class="search-body">
 							<div class="search-form">
@@ -111,7 +94,7 @@
 								</form>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="con-btn text-center  text-uppercase">
 						<a href="#">consultation <i class="flaticon-next"></i></a>
 					</div>
@@ -140,29 +123,12 @@
 					</div>
 					<nav class="el-mobile-main-navigation  clearfix ul-li">
 						<ul id="main-nav" class="navbar-nav text-capitalize clearfix">
-							<li class="dropdown">
-								<a href="#">Home</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="index.php">Home Page 1</a></li>
-									<li><a href="index-2.php">Home Page 2</a></li>
-								</ul>
-							</li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li class="dropdown">
-								<a href="#">Services</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="service.php">Service</a></li>
-									<li><a href="service-single.php">Details</a></li>
-								</ul>
-							</li>
-							<li class="dropdown">
-								<a href="#"> News</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="blog.php">Blog</a></li>
-									<li><a href="blog-single.php">Details</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Gallery</a></li>
+							<li><a href="service.php">Products</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="gallery.php">Gallery</a></li>							
+							<li><a href="contact.php">Support</a></li>
 							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</nav>

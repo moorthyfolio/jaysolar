@@ -537,7 +537,7 @@ select:visited {
 .site-main-menu {
   padding: 26px 0px 28px; }
   .site-main-menu .brand-logo {
-    margin-right: 98px; }
+    margin-right: 45px; }
   .site-main-menu .navbar-nav {
     display: inline-block;
     padding-top: 15px; }
@@ -547,7 +547,7 @@ select:visited {
       margin-left: 30px; }
       .site-main-menu .main_navigation li a {
         color: #222222;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 700;
         padding: 45px 0px; }
   .site-main-menu .site-search-btn .el-search {
@@ -557,7 +557,7 @@ select:visited {
     width: 208px;
     display: inline-block;
     line-height: 55px;
-    margin-left: 35px;
+    /* margin-left: 35px; */
     background-color: #f1c112; }
     .site-main-menu .site-search-btn .con-btn:before {
       background-color: #0071b4; }
@@ -3047,7 +3047,7 @@ select:visited {
   .header_style_two .header_top {
     padding-left: 20px; }
   .site-main-menu .brand-logo {
-    margin-right: 75px; }
+    margin-right: 33px; }
   .site-main-menu .main_navigation li {
     margin-left: 30px; }
   #slider-eltron .owl-prev,
