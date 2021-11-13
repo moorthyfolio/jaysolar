@@ -23,7 +23,7 @@
 <!-- Start of Contact map section
 	============================================= -->
 	<div id="google-map">
-		<div class="earth3dmap-com"><iframe id="iframemap" src="https://maps.google.com/maps?q=newyork&amp;ie=UTF8&amp;iwloc=&amp;output=embed" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; padding: 10px;"><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
+		<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; padding: 10px;"><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
 	</div><!-- /#google-map-->
 <!-- End Contact map section
 	============================================= -->		
@@ -46,28 +46,20 @@
 								</div>
 								<div class="contact-text pera-content headline">
 									<h4>Corporate Office</h4>
-									<p>68 Kings Street, Town Hall North Avenue,
-									California 33089 - USA</p>
+									<p>R.S. No 140/2, Pondy – Tindivanam Main Road,
+									   Pattanur, Vanur TK,</br> Villupuram Dist.,</br>
+									   Tamilnadu – 605 101.</p>
 								</div>
 							</div>
-							<div class="contact-address">
-								<div class="contact-icon">
-									<i class="far fa-clock"></i>
-								</div>
-								<div class="contact-text pera-content headline">
-									<h4>Customer Support</h4>
-									<p>Monday - Friday  09:00 - 18:00 <br>
-									Saturday - Sunday  10:00 - 16:00</p>
-								</div>
-							</div>
+					
 							<div class="contact-address">
 								<div class="contact-icon">
 									<i class="icon-call-in"></i>
 								</div>
 								<div class="contact-text pera-content headline">
 									<h4>Contact us</h4>
-									<p><STRONG>1-700-231-0025 <br></STRONG>
-									support@eltron-energy.com</p>
+									<p><STRONG>+91 98430 71622 <br></STRONG>
+									enquiry@jaisolar.com</p>
 								</div>
 							</div>
 						</div>

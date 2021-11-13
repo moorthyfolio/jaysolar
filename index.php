@@ -9,39 +9,36 @@
 			<div class="main-slider-img-text slide-type-one pera-content headline position-relative">
 				<div class="slider-img-bg img-zooming" data-background="assets/img/slider/sm1.jpg"></div>
 				<div class="background_overlay"></div>
-				<div class="container">
+				<div class="container owl-slider-height">
 					<div class="slider-content-box">
 						<span class="title-tag text-uppercase"><img src="assets/icon/icon5.svg" alt="">Energy Management System</span>
-
-						<h1>Our Main Motto</h1>
-						<h1></h1>
+						<h1>Our Main </br>Motto</h1>
 						<p>Design, Supply, Erection, Testing &</br>
 						Commissioning of Solar Power Plant
 						</p>
-						<div class="slide-btn-1">
+						<!-- <div class="slide-btn-1">
 							<a href="#">Know More  <i class="flaticon-next"></i></a>
 							<a href="#">Talk With Us +91 98430 71622</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
 			<div class="main-slider-img-text slide-type-two pera-content headline position-relative">
 				<div class="slider-img-bg img-zooming"  data-background="assets/img/slider/sm2.jpg"></div>
 				<div class="background_overlay"></div>
-				<div class="container">
+				<div class="container owl-slider-height">
 					<div class="slider-content-box text-center">
 						<span class="title-tag text-uppercase"><img src="assets/icon/icon5.svg" alt="">producing what matters!</span>
 						<h1>Best Renewable Energy
-							Solutions For Future
-
+							Solutions  
 						</h1>
 						<p>Aorem ipsum dolor sit amet consectetur adipisicing anim
 							elit dolore magna aliqua veniam quis nostrud.
 						</p>
-						<div class="slide-btn-1">
+						<!-- <div class="slide-btn-1">
 							<a href="#">Learn More  <i class="flaticon-next"></i></a>
 							<a href="#">Global help  <i class="flaticon-next"></i></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -121,7 +118,7 @@
 							
 							<!-- title -->
 							<div class="about-content pera-content">
-							<h2>Our mission</h2></br>
+							<h2>Our Mission</h2></br>
 								<div class="about-text2">
 									<p>
 									As a solar power solution provider, is to be a part of the environmental solution by making solar energy possible for businesses and homes. We maintain the highest standards of customer service and satisfaction. Through our integrated service approach, we partner with you, help you navigate your way through the solar landscape and offer uniquely tailored solutions.</br></br>We deliver a variety of energy solutions that aims to reduce your energy bill. Our experienced technical team will sort out all your paperwork and make the whole process as simple as possible.
@@ -364,299 +361,7 @@
 <!-- End of advantage section
 	============================================= -->
 
-<!-- Start of Consaltation section
-	============================================= -->
-	<section id="consaltation" class="consaltation-section position-relative">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="consaltation-content">
-						<div class="consaltation-icon text-center">
-							<i class="icon-call-out"></i>
-						</div>
-						<div class="consaltation-text">
-							<h3>Get a Free Consultation, Call us</h3>
-							<span>+1 (700) 230-0035</span>
-						</div>
-						<div class="consalt-btn text-center text-uppercase">
-							<a href="#">contact us <i class="flaticon-next"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-<!-- End of Consaltation section
-	============================================= -->
-	
 
-<!-- Start of expertise section
-	============================================= -->
-	<!-- <section id="expertise" class="expertise-section position-relative">
-		<div class="container">
-			<div class="expertise-content">
-				<div class="row">
-					<div class="col-lg-6 col-md-12">
-						<div class="expertise-text">
-							<div class="section-title-left">
-								<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Who We Are</span>
-								<h2>Using Innovative And
-								Natural  For Energy</h2>
-							</div>
-							<div class="expertise-text-details">
-								Dolore magna aliqua enim veniam quis nostrud exercitation
-								aliquip exa commodo consequat duis irure reprehen sed der
-								cillum dole afugiat nula pariatur officia deserunt.
-							</div>
-							<div class="expertise-skill-progress">
-								<div class="single_experties">
-									<div class="progress_text">
-										<div class="skill-title float-left text-capitalize">Sustainable Systems</div>
-										<div class="skill-percent float-right">75%</div>
-									</div>
-									<div class="progress">
-										<div class="progress-bar wow Rx-width-75 animated" role="progressbar" data-wow-duration="1.5s" data-wow-delay=".5s" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
-										</div>
-									</div>
-								</div>
-								<div class="single_experties">
-									<div class="progress_text">
-										<div class="skill-title float-left text-capitalize">Turbine Energy</div>
-										<div class="skill-percent float-right">80%</div>
-									</div>
-									<div class="progress">
-										<div class="progress-bar wow Rx-width-80 animated" role="progressbar" data-wow-duration="1.5s" data-wow-delay=".5s" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
-										</div>
-									</div>
-								</div>
-								<div class="single_experties">
-									<div class="progress_text">
-										<div class="skill-title float-left text-capitalize">Renewable Energy</div>
-										<div class="skill-percent float-right">90%</div>
-									</div>
-									<div class="progress">
-										<div class="progress-bar wow Rx-width-90 animated" role="progressbar" data-wow-duration="1.5s" data-wow-delay=".5s" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="expertise-indicator-icon">
-							<div class="expertise-icon-item active" data-target="#expertise_carouselid" data-slide-to="0">
-								<svg xmlns="http://www.w3.org/2000/svg" width="38" height="50" viewBox="0 0 38 50">
-									<path  class="cls-1" d="M949.974,5715c2.54,0.01,5.079,0,7.619.01,0,1.29,0,2.59,0,3.88-0.626,0-1.25-.01-1.871-0.01,0-.62-0.007-1.25.006-1.87-1.3-.06-2.592-0.01-3.886-0.02,0,0.64,0,1.27-.014,1.9q-0.929-.015-1.851,0c-0.013-1.3-.02-2.59,0-3.89h0Zm-8.647,8.95a3.259,3.259,0,0,1,3.283-3.35c10.4,0,20.8-.02,31.2,0a3.36,3.36,0,0,1,2.982,4.37,3.537,3.537,0,0,1-2.154,2.29q0,6.135,0,12.28a3.475,3.475,0,0,1,0,6.76c0,4,.008,8,0,12a3.588,3.588,0,0,1,2.205,2.46,3.379,3.379,0,0,1-3.028,4.23q-15.6.015-31.2,0a3.264,3.264,0,0,1-3.243-2.87,3.383,3.383,0,0,1,3.019-3.92c1.849-.03,3.7-0.01,5.55-0.01,0.129,0.07.381,0.19,0.509,0.25a1.09,1.09,0,0,1-.535,1.7c-1.925.06-3.854,0-5.778,0.03a1.8,1.8,0,0,0-.916,1.48,1.491,1.491,0,0,0,1.61,1.42h30.525a1.494,1.494,0,0,0,1.687-1.44,1.888,1.888,0,0,0-.884-1.46,18.351,18.351,0,0,1-2.971-.11,1.133,1.133,0,0,1-.314-1.67,6.1,6.1,0,0,1,1.9-.23c-0.007-3.94-.026-7.88.011-11.81a12.354,12.354,0,0,1-1.825-.15,1.364,1.364,0,0,1-.252-1.26,5.612,5.612,0,0,1,.522-0.56c1.08-.05,2.17.06,3.247-0.07a1.5,1.5,0,0,0,.148-2.7c-1.114-.38-2.335.02-3.472-0.24a1,1,0,0,1-.485-1.15c0.239-.99,1.412-0.53,2.122-0.75-0.051-4.01-.018-8.03-0.016-12.05a5.41,5.41,0,0,1-1.92-.25,1.161,1.161,0,0,1,.321-1.66,29.151,29.151,0,0,1,2.962-.11,2.089,2.089,0,0,0,.887-1.24,1.427,1.427,0,0,0-1.429-1.63q-15.38,0-30.759,0a1.41,1.41,0,0,0-1.48.84,1.456,1.456,0,0,0,1.276,2.05c1.786,0.02,3.573,0,5.36.01l0.487,0.28a1.175,1.175,0,0,1-.518,1.7c-1.362-.03-2.725-0.02-4.085.01,0.017,3.18,0,6.37.008,9.56q-0.948.015-1.893,0c0.029-3.21.007-6.43,0.013-9.65a3.376,3.376,0,0,1-2.668-3.38h0Zm19.057,8.87a0.972,0.972,0,0,1,1.151.4c0.931,2.6,2.835,4.65,4.5,6.78a9.324,9.324,0,0,1,1.776,7.62,6.952,6.952,0,0,1-3.469,4.65,7.52,7.52,0,0,1-9.21-1.6,8.037,8.037,0,0,1-1.365-7.29,11.461,11.461,0,0,1,2.687-4.65,20.171,20.171,0,0,0,3.482-5.5,0.536,0.536,0,0,1,.451-0.41m0.27,3.41a56.95,56.95,0,0,1-3.723,5c-1.572,2.08-2.216,5.16-.8,7.5a5.49,5.49,0,0,0,6.393,2.22,5.108,5.108,0,0,0,3.352-3.53,7.291,7.291,0,0,0-1.6-6.53,46.068,46.068,0,0,1-3.475-4.69c-0.038.01-.108,0.02-0.144,0.03h0Zm-19.322,6.66a3.252,3.252,0,0,1,3.046-3.33c1.838,0,3.676-.03,5.515.02,0.944,0.01,1.03,1.59.157,1.82-1.887.14-3.785-.03-5.672,0.08a1.473,1.473,0,0,0-1.082,1.91,1.4,1.4,0,0,0,1.3.97c1.8,0.05,3.606-.07,5.4.05a1.132,1.132,0,0,1,.4,1.74,28.8,28.8,0,0,1-4.552.19c0.042,3.2.006,6.4,0.017,9.6h-1.887c0.025-3.21,0-6.43.016-9.64a3.415,3.415,0,0,1-2.67-3.41h0Zm15.984,1.95a1.211,1.211,0,0,1,1.268-.67,1.517,1.517,0,0,1,.783,1.43,2.516,2.516,0,0,0,1.433,1.79,1.179,1.179,0,0,1-.422,1.7h-0.589a4.921,4.921,0,0,1-2.473-4.25h0Z" transform="translate(-941.313 -5715)"/>
-								</svg>
-							</div>
-							<div  class="expertise-icon-item" data-target="#expertise_carouselid" data-slide-to="1">
-								<svg xmlns="http://www.w3.org/2000/svg" width="43" height="50" viewBox="0 0 43 50">
-									<path  class="cls-1" d="M957.416,5865.8a1.191,1.191,0,0,1,.9-0.69c1.609-.03,3.22-0.04,4.829.02a2.516,2.516,0,0,1,.565,1.91,9.055,9.055,0,0,1,5.174,3.8,11.664,11.664,0,0,1,1.653,6.24,4.082,4.082,0,0,0,.4,1.91,10.576,10.576,0,0,0,1.113-.22c0.226,0.06.454,0.14,0.684,0.21a1.167,1.167,0,0,1-.024,1.35,11.684,11.684,0,0,1-3.031,1.22,14.165,14.165,0,0,1-4.148,10.86,7.375,7.375,0,0,1-5.074,2.03,7.594,7.594,0,0,1-4.936-1.98,12,12,0,0,1-3.245-5.07,6.444,6.444,0,0,1-.523-3.47,1.622,1.622,0,0,1,1.409-.08,29.686,29.686,0,0,0,1.37,4.23,7.879,7.879,0,0,0,4.333,4.23,5.457,5.457,0,0,0,5.492-1.32c2.427-2.24,3.416-5.65,3.574-8.9a50.883,50.883,0,0,1-6.627.69,30.22,30.22,0,0,1-12.977-2.37,1.432,1.432,0,0,1,.032-1.43c0.228-.08.457-0.14,0.689-0.21a2.908,2.908,0,0,0,1.132.18,3.667,3.667,0,0,0,.308-1.41,12.348,12.348,0,0,1,1.8-6.83,9.121,9.121,0,0,1,5.112-3.68c0.013-.41.021-0.82,0.021-1.22m1.261,11.06c-0.6-.03-1.2-0.05-1.8-0.08,0.086-2.57.32-5.14,0.388-7.71a6.8,6.8,0,0,0-3.884,3.39,11.212,11.212,0,0,0-1.054,5.28,5.108,5.108,0,0,1-.5,2,32.691,32.691,0,0,0,17.417,0,4.867,4.867,0,0,1-.489-2.02,11.1,11.1,0,0,0-1.21-5.52,6.4,6.4,0,0,0-3.783-3.11c0.184,2.56.31,5.13,0.439,7.7-0.605.02-1.208,0.05-1.811,0.05-0.169-3.27-.378-6.54-0.521-9.81a15.031,15.031,0,0,0-2.6-.11c-0.272,3.3-.38,6.62-0.591,9.94h0Zm-6.789,17.8a1.082,1.082,0,0,1,1.31.39c0.957,1.87,1.853,3.78,2.772,5.68a2.673,2.673,0,0,1,.27-0.06c1.153-1.38,2.336-2.72,3.491-4.09a0.866,0.866,0,0,1,1.36-.14c1.291,1.37,2.482,2.83,3.7,4.26h0.3c0.746-1.76,1.644-3.44,2.444-5.17a3.393,3.393,0,0,1,.649-0.95,58.892,58.892,0,0,1,7.862,1.67,6.03,6.03,0,0,1,3.9,3.14,11.7,11.7,0,0,1,1.33,5.04c0.255,3.24.485,6.49,0.717,9.74a1.136,1.136,0,0,1-.894.89c-0.234-.09-0.468-0.18-0.7-0.26a9.282,9.282,0,0,1-.384-2.62c-0.154-2.65-.411-5.3-0.575-7.96a7.9,7.9,0,0,0-2.212-5.3,3.182,3.182,0,0,0-1.474-.81c-2.216-.58-4.44-1.14-6.694-1.54-0.911,2.01-1.931,3.98-2.867,5.98a1.288,1.288,0,0,1-.894.97,1.082,1.082,0,0,1-1.153-.85,14.774,14.774,0,0,0-1.272,1.37c0.31,3.38.833,6.74,1.206,10.11-0.055.87-.967,0.9-1.6,0.71a15.632,15.632,0,0,1-.561-3.31c-0.187-1.79-.487-3.56-0.626-5.35a1.749,1.749,0,0,1-1.56-.17c-0.272,2.57-.639,5.13-0.932,7.7a2.526,2.526,0,0,1-.28,1.01,6.491,6.491,0,0,1-.846.36c-0.253-.21-0.5-0.42-0.742-0.62,0.154-2.58.622-5.13,0.877-7.69a16.719,16.719,0,0,0,.249-2.76,7.638,7.638,0,0,0-1.252-1.37,1.09,1.09,0,0,1-.781.85,0.992,0.992,0,0,1-1.117-.73c-1.02-2.07-1.986-4.18-3.036-6.23a73.235,73.235,0,0,0-7.158,1.74c-1.914.86-2.755,3.09-3.072,5.06-0.329,3.52-.525,7.05-0.8,10.57a0.946,0.946,0,0,1-.645,1.02,1.084,1.084,0,0,1-1.206-.54c0.2-3.37.487-6.73,0.719-10.1a11.319,11.319,0,0,1,1.621-5.4,5.967,5.967,0,0,1,3.165-2.52c2.435-.69,4.9-1.25,7.383-1.72m6.281,6.56c0.7,0.97,1.579,1.8,2.3,2.76,0.711-.7,1.3-1.51,1.984-2.24,0.123-.18.435-0.42,0.226-0.64-0.628-.9-1.463-1.62-2.1-2.51a28.6,28.6,0,0,0-2.416,2.63h0Z" transform="translate(-939 -5865.09)"/>
-								</svg>
-							</div>
-							<div class="expertise-icon-item" data-target="#expertise_carouselid" data-slide-to="2">
-								<svg  data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206.35 221.34"><path class="cls-1" d="M190.73,270.73l3.21-1.17A7.43,7.43,0,0,1,198,273c8.95,14.76,19.27,28.61,28.66,43.07A88.43,88.43,0,0,1,219,320.4c-8-12.68-16.92-24.84-25.11-37.42-1.67,1-2.4,3-3.51,4.51q-9.11,13.77-18.6,27.3c-7.35,10.52-12.52,23.14-11.68,36.18-.1,13.56,9.3,27,22.82,30a34.6,34.6,0,0,1-2,8.51,38.54,38.54,0,0,1-26.17-22.27c-5.72-13.65-4.1-29.48,1.69-42.83,3.61-8.74,9.47-16.23,14.75-24q10.11-14.6,19.55-29.63Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M312.29,270.63l2.54-.92c1.05.3,2.1.62,3.16.94,5.09,8.53,10.79,16.68,16.27,25s11.63,16,16.19,24.74c7,14,9.79,31.1,3.81,46a39,39,0,0,1-26.57,23.25,49.34,49.34,0,0,1-1.76-8.65A29.73,29.73,0,0,0,343,369.11c5.95-8.77,6.9-20.06,4.77-30.23-1.95-9.63-6.67-18.47-12.42-26.35-6.14-8.91-12.37-17.79-18.18-26.92-.72-.9-1.14-2.23-2.34-2.56-4.16,5.58-7.61,11.68-11.73,17.31-4.42,6.67-9.27,13.05-13.42,19.91a69.47,69.47,0,0,1-7.7-4.14c9.91-15.28,20.76-29.95,30.27-45.5Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M252.32,298.72c1.83-.48,4.35-.67,5.38,1.29,11.63,18.87,24.21,37.12,36.76,55.38,3.35,5,7.06,9.74,10.12,14.93,10.61,17.53,17.38,38,16.23,58.62-.68,15.85-6.57,31.84-17.89,43.19-12.25,13-30.52,19-48.09,18.75-17.65.45-36.08-5.41-48.55-18.27-9.89-9.6-15.82-22.82-17.69-36.38-2.58-17.25.84-35,7.74-50.87,6-14.64,16.1-27,24.84-40.06,9.87-14.52,19.83-29,29-44a7.62,7.62,0,0,1,2.17-2.57m1.76,12.45c-10.48,17.27-22.21,33.73-33.6,50.39-3.56,5.48-7.63,10.64-10.76,16.39a100.32,100.32,0,0,0-12.28,34c-2.8,16.18-.32,33.76,9,47.52,8.21,12.22,22.09,19.89,36.5,22,13.93,2.06,28.75.59,41.3-6.08,12.31-6.3,21.35-18.09,25.22-31.27,5.2-17,2.74-35.59-3.68-51.95-6.56-17.48-19-31.73-29-47.22-7.85-11.08-14.9-22.71-22.71-33.8Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M169.2,345.28c2.78.2,5.56.44,8.34.67-.23,6.27,1.17,13.3,6.8,17-1.36,2.31-2.62,4.68-3.81,7.09-9.4-3.9-12.27-15.45-11.33-24.72Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M331.2,345.88c2.79-.19,5.58-.42,8.38-.58.47,6.33-.41,13-3.95,18.41-1.89,2.72-4.3,5.4-7.63,6.26a69.29,69.29,0,0,0-3.72-7.22c5.89-3.34,7.08-10.69,6.92-16.87Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M252.34,366.63c2.25-1.19,4.51.09,6.11,1.69.15,2.25.24,4.51.3,6.77,8.74,1.88,15.73,10,15.54,19-.28.58-.82,1.76-1.1,2.34-2.42,2-7.07,1.73-7.48-2-.19-4.46-2.66-8.78-7-10.24-7.11-3.34-17.39,3.05-15.17,11.3,2.53,4.88,8.28,6.62,12.8,9.16,7,3.48,15.59,7.22,17.54,15.64,2.3,9.73-5.27,19.27-14.52,21.59-1.56,2,.38,5.71-1.85,7.62-1.38,1.93-3.92,1.05-5.89,1-1.85-2.51-1.11-5.69-1.79-8.47-9.11-2.28-17.45-11.73-14.46-21.46,1.78-.81,3.76-1.77,5.72-.9,3.41,2.46,1.52,7.68,4.73,10.32,4.3,4.86,12.88,5,17.15,0,3-2.89,3.79-8.44.25-11.21-7.6-6.52-18.52-8.16-25.22-15.88-5.16-5.94-4.25-15.35.8-21.06,2.79-3.63,7-5.69,11.35-6.86.29-2.82-1-6.88,2.24-8.39Z" transform="translate(-151.19 -269.56)"/><path class="cls-1" d="M208.85,426.91c-.09-2.37,2.09-3.43,3.92-4.25l2.82.92,1.64,2c.36,8.51,2.46,17.31,8,24,2.21,2.85,5.37,4.74,7.76,7.43,1,1.78-.15,3.66-.89,5.3-1.13.36-2.25.75-3.36,1.15-13.26-6.69-19.79-22.28-19.89-36.55Z" transform="translate(-151.19 -269.56)"/></svg>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="ex-carousel">
-			<div id="expertise_carouselid" class="carousel slide" data-ride="carousel">
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-						<img src="assets/img/expertice/ex1.jpg" alt="">
-					</div>
-					<div class="carousel-item">
-						<img src="assets/img/expertice/ex2.jpg" alt="">
-					</div>
-					<div class="carousel-item ">
-						<img src="assets/img/expertice/ex3.jpg" alt="">
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
-	<!-- <div class="mission-area">
-		<div class="mission-text">
-			<div class="section-title-left">
-				<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Mission And Vision</span>
-				<h2>“We believe in the right collaboration
-				to save the earth - For its People”</h2>
-			</div>
-		</div>
-	</div> -->
-<!-- End of expertise section
-	============================================= -->
-
-<!-- Start of testimonial section
-	============================================= -->
-	<section id="testimonial" class="testimonial-section">
-		<div class="container">
-			<div class="section-title-middle text-center">
-				<span class="title-tag"><svg  data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436.52 435.93"><path class="cls-1" d="M182.35,231.18A192.57,192.57,0,0,1,246,188.36c-.42,35.33,7.09,71.07,23.92,102.3,8.45,15.94,19.36,30.41,31,44.11,11.38,13.44,23.21,26.77,31.46,42.45,9.28,17.38,13.66,37,15,56.53,2.78,38.52-4.42,77-14.22,114.07-27.69-16.64-49.62-41.5-66.73-68.63-23.42-37.59-37.05-80.6-43.72-124.2-1.7-11.49-3.19-23-3.77-34.65a173.45,173.45,0,0,0-1.39-19.72,253.81,253.81,0,0,0-.37,39.67c1.31,42.61,8.77,85.35,24.92,124.94,14.78,36.11,36.79,69.82,66.57,95.32C270.5,557.2,233.54,542,203.46,518.29a202.1,202.1,0,0,1-77.15-152.48c0-49.91,20.79-99.34,56-134.63Z" transform="translate(-103.26 -141.54)"></path><path class="cls-1" d="M539.58,352.81a216.12,216.12,0,0,0-26.32-97.36,218,218,0,0,0-207.43-113.3c-56,3.68-110,30.43-147.14,72.47a216.34,216.34,0,0,0-47.45,87.29c-5.6,19.46-7.71,39.74-8,59.93a98.67,98.67,0,0,0,1-11,219.5,219.5,0,0,1,8.57-44.13,210.48,210.48,0,0,1,67.37-99.63,208.3,208.3,0,0,1,78.64-40.23,211.07,211.07,0,0,1,81-5.17A206.92,206.92,0,0,1,443.9,206.55c-9.85,7.41-20.08,14.45-31.06,20.08-3.35-1.79-6.2-4.34-9.43-6.32-16.43-10.65-34.54-19-53.7-23.22,15.69,7.59,30.9,16.31,44.6,27.15,2.91,2.44,6.21,4.5,8.58,7.52-10,5.36-20.72,9-31.2,13.19-4.86.91-9.35,3.26-14.31,3.77a30.54,30.54,0,0,0-4.15-5.25C342.75,232.33,330.3,222.78,316,217a135,135,0,0,1,29.53,29.25c1.22,1.8,3.16,3.5,2.87,5.9-1.93-.48-3.83.29-5.7.63-11.82,2.82-23.9,4.33-36,5.6A232.54,232.54,0,0,0,348,254.23a11,11,0,0,1,3.66.15c5.88,10.57,12,21.05,16.47,32.33a273.08,273.08,0,0,1,18.07,67.19,282.9,282.9,0,0,1-36.38,5.49c11.43.35,22.84-1,34.09-2.88l2.58-.46a333.07,333.07,0,0,1-.29,95.06c-3,.5-6.33.47-9,2.17,2.89,0,5.77-.21,8.66-.41a281,281,0,0,1-23,78.12c4.68-5.24,8.32-11.3,11.93-17.3,11.31-19.4,19-40.77,23.76-62.67,7.78-1.55,15.61-2.88,23.29-4.93a281,281,0,0,0,44.26-15c-7,30.41-22.29,58.44-41.55,82.8a41.94,41.94,0,0,0,7.36-6.06,177.1,177.1,0,0,0,48.57-82.12c.34-2.22,2.69-2.95,4.34-4C497,415.2,508.34,407.2,519.3,398.8A209.45,209.45,0,0,1,373.78,568.62a201.52,201.52,0,0,1-51.1,8.72c18.83.78,37.73-2.06,55.85-7.13,46.63-12.14,88.55-41,117.45-79.43C525.43,451.8,541.81,403.65,539.58,352.81Zm-149.24,73c-.11-16-.22-31.95,0-47.92C390.5,393.82,390.61,409.8,390.34,425.77Zm-4.48-130.2c-6.28-14.63-13.77-28.94-23.82-41.36l-1.52-2.46c5.61-1.38,11.2-2.82,16.73-4.49a256.91,256.91,0,0,0,30.93-11.17,203.38,203.38,0,0,1,55.2,87A254.92,254.92,0,0,1,407.47,348c-.85.26-1.7.54-2.54.81l-3.68,1.11C398,331.34,393.21,313,385.86,295.57Zm82.23,127.32a269.06,269.06,0,0,1-52.26,21.28c-5.55,1.55-11.15,3-16.76,4.29,5.47-25.79,6.63-52.4,4.54-78.64-.32-5.61-1.6-11.15-1.47-16.78,4-1,8.08-2,12.09-3.06a255.9,255.9,0,0,0,51.1-19.85A199.67,199.67,0,0,1,468.09,422.89ZM449.25,263.33c-8.84-11.89-19.41-22.37-30.57-32.07a230.39,230.39,0,0,0,32.16-19A211.4,211.4,0,0,1,505,287.55c.31,1.06,1.27,2.54.09,3.44a218.43,218.43,0,0,1-28.42,23.61A189.19,189.19,0,0,0,449.25,263.33ZM521.06,381.8c0,2.19-1.91,3.55-3.27,5a219.74,219.74,0,0,1-34.48,27,190.49,190.49,0,0,0-4.15-91.31A237.31,237.31,0,0,0,507.93,302c.58-.55,2.35-1.86,2.45-.16A210.41,210.41,0,0,1,521.06,381.8Z" transform="translate(-103.26 -141.54)"></path></svg>
-					Get The Right Facts & Clients Testimonials
-				</span>
-				<h2>What Our Satisfied Clients
-				Around The Globe Are Saying</h2>
-			</div>
-			<div class="testimonial-content">
-				<div class="testimonial-part testimonial-img">
-					<img src="assets/img/background/tbg.jpg" alt="">
-				</div>
-				<div class="testimonial-part testimonial-text-slide">
-					<div id="testimonial-slideid" class="testimonial-slide owl-carousel">
-						<div class="testimonial-slide-text headline pera-content position-relative">
-							<div class="q-icon">
-								<i class="fas fa-quote-right"></i>
-							</div>
-							<h3>“Many Benefits for the environment”</h3>
-							<p>At dolore magna aliqua enim veniam quis nostrul
-								minim exercitation ulamco aliquip exa comod sed
-								sequat duis aute irure dolor repreh derit voluptate
-							cillum dol afugiat nula pariatur vitae.</p>
-							<div class="testimonial-img-rate">
-								<div class="testimonial-pic float-left">
-									<img src="assets/img/testimonial/tst1.jpg" alt="">
-								</div>
-								<div class="testimonial-rate ul-li">
-									<h4>Donald James</h4>
-									<span>Eltron Company</span>
-									<ul>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="testimonial-slide-text headline pera-content position-relative">
-							<div class="q-icon">
-								<i class="fas fa-quote-right"></i>
-							</div>
-							<h3>“Many Benefits for the environment”</h3>
-							<p>At dolore magna aliqua enim veniam quis nostrul
-								minim exercitation ulamco aliquip exa comod sed
-								sequat duis aute irure dolor repreh derit voluptate
-							cillum dol afugiat nula pariatur vitae.</p>
-							<div class="testimonial-img-rate">
-								<div class="testimonial-pic float-left">
-									<img src="assets/img/testimonial/tst1.jpg" alt="">
-								</div>
-								<div class="testimonial-rate ul-li">
-									<h4>Donald James</h4>
-									<span>Eltron Company</span>
-									<ul>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="testimonial-slide-text headline pera-content position-relative">
-							<div class="q-icon">
-								<i class="fas fa-quote-right"></i>
-							</div>
-							<h3>“Many Benefits for the environment”</h3>
-							<p>At dolore magna aliqua enim veniam quis nostrul
-								minim exercitation ulamco aliquip exa comod sed
-								sequat duis aute irure dolor repreh derit voluptate
-							cillum dol afugiat nula pariatur vitae.</p>
-							<div class="testimonial-img-rate">
-								<div class="testimonial-pic float-left">
-									<img src="assets/img/testimonial/tst1.jpg" alt="">
-								</div>
-								<div class="testimonial-rate ul-li">
-									<h4>Donald James</h4>
-									<span>Eltron Company</span>
-									<ul>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-										<li><i class="fas fa-star"></i></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-<!-- End of testimonial section
-	============================================= -->
-
-<!-- Start of Blog section
-	============================================= -->				
-	<section id="blog" class="blog-section relative-position" data-background="assets/img/background/ft-bg.jpg">
-		<div class="background_overlay"></div>
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-4 col-md-12">
-					<div class="blog-left-content">
-						<div class="section-title-left">
-							<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Our Works Worldwide</span>
-							<h2>News From The
-							Energy World</h2>
-						</div>
-						<div class="blog-text-details">
-							<p>Sagitis dia facilisis convalis eu dictum sed ipsum
-								tempore dui. Excepteur sint occaecat aidata non
-							proident quofficia deserunt mollit.</p>
-							<div class="b-read-more-btn text-center text-uppercase">
-								<a href="#">read more <i class="flaticon-next"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-8 col-md-12">
-					<div class="blog-post-content clearfix">
-						<div class="blog-post-item">
-							<div class="blog-post-pic">
-								<img src="assets/img/blog/bp2.jpg" alt="">
-								<a class="blog-linker" href="#"></a>
-							</div>
-							<div class="blog-post-text">
-								<h3><a href="#">Environment Agenda
-								for 2020 & Beyond</a></h3>
-								<div class="blog-meta">
-									<a href="#"><i class="icon-user"></i>Admin</a>
-									<a href="#"><i class="icon-calendar"></i>April 26, 2020</a>
-								</div>
-								<div class="blog-more text-uppercase">
-									<a href="#">full story <i class="flaticon-next"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="blog-post-item">
-							<div class="blog-post-pic">
-								<img src="assets/img/blog/bp1.jpg" alt="">
-								<a class="blog-linker" href="#"></a>
-							</div>
-							<div class="blog-post-text">
-								<h3><a href="#">Natural Systems On
-								Which All Life Depends</a></h3>
-								<div class="blog-meta">
-									<a href="#"><i class="icon-user"></i>Admin</a>
-									<a href="#"><i class="icon-calendar"></i>April 26, 2020</a>
-								</div>
-								<div class="blog-more text-uppercase">
-									<a href="#">full story <i class="flaticon-next"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-<!-- End of Blog section
-	============================================= -->
 <!-- include footer starts
 	============================================= -->
 <?php include "footer.php"; ?>

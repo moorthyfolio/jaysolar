@@ -33,39 +33,14 @@
 		</div>
 		<div class="footer-content">
 			<div class="container">
-				<div class="footer-contact-info">
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="footer-icon-text-contact-info headline pera-content">
-								<p><i class="icon-pin"></i> Our Office Location</p>
-								<h3>R.S. No 140/2, Pondy – Tindivanam Main Road,</br>Pattanur, Vanur TK, Villupuram Dist.,</br>Tamilnadu – 605 101.</h3>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="footer-icon-text-contact-info headline pera-content">
-								<p><i class="icon-call-in"></i> Any Questions?</p>
-								<h3>+91 98430 71622</h3>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="footer-icon-text-contact-info headline pera-content">
-								<p><i class="icon-envelope-letter"></i> Send Email</p>
-								<h3>enquiry@jaisolar.com</h3>
-							</div>
-						</div>
-					
-					</div>
-				</div>
+				
 				<div class="footer-widget-area">
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="footer-widget-item pera-content">
 								<div class="footer-logo-widget">
 									<a class="footer-logo" href="#"><img src="assets/img/logo/f-logo.png" alt=""></a>
-									<p>At dolore magna aliqua enim veniam
-										quis nostrud minim exercitationery ulam
-										aliquip exa commodoretert et consequat duis
-									aut irure</p>
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our mission, as a solar power solution provider, is to be a part of the environmental solution by making solar energy possible for businesses and homes.</p>
 									<div class="footer-social">
 										<a href="#"><i class="fab fa-facebook-f"></i></a>
 										<a href="#"><i class="fab fa-twitter"></i></a>
@@ -79,15 +54,14 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="footer-widget-item pera-content">
 								<div class="footer-menu-widget ul-li-block">
-									<h3 class="el-widget-title">About Company</h3>
+									<h3 class="el-widget-title">Site Map</h3>
 									<ul>
-										<li><a href="#">Professional Monitoring</a></li>
-										<li><a href="#">Installation Services</a></li>
-										<li><a href="#">History & Experience</a></li>
-										<li><a href="#">Technical Staff</a></li>
-										<li><a href="#">Free Support Center</a></li>
-										<li><a href="#">Meet Our Experts</a></li>
-										<li><a href="#">Installation Services</a></li>
+										<li><a href="#">Home</a></li>
+										<li><a href="#">About</a></li>
+										<li><a href="#">Products</a></li>
+										<li><a href="#">Gallery</a></li>
+										<li><a href="#">Support</a></li>
+										<li><a href="#">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -95,14 +69,14 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="footer-widget-item pera-content">
 								<div class="footer-menu-widget ul-li-block">
-									<h3 class="el-widget-title">Our Solutions</h3>
+									<h3 class="el-widget-title">Our Services</h3>
 									<ul>
-										<li><a href="#">Hybrid Energy</a></li>
-										<li><a href="#">Solar Power</a></li>
-										<li><a href="#">Water Turbines</a></li>
-										<li><a href="#">BioFuel Energy</a></li>
-										<li><a href="#">Renewable Integration</a></li>
-										<li><a href="#">Meet Our Experts</a></li>
+										<li><a href="#">Solar Power Plant</a></li>
+										<li><a href="#">Solar Inverter / Ups</a></li>
+										<li><a href="#">Solar Air Conditioner</a></li>
+										<li><a href="#">Solar Water Pump</a></li>
+										<li><a href="#">Servo Controlled Volt Stabilizer</a></li>
+										<li><a href="#">Solar Water Heater</a></li>
 									</ul>
 								</div>
 							</div>
@@ -125,7 +99,7 @@
 										</select>
 									</div>
 									<div class="footer-map">
-										<div class="earth3dmap-com"><iframe id="iframemap" src="https://maps.google.com/maps?q=newyork&amp;ie=UTF8&amp;iwloc=&amp;output=embed" width="100%" height="170" frameborder="0" scrolling="no"></iframe></div>
+										<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="170" frameborder="0" scrolling="no"></iframe></div>
 									</div>
 								</div>
 							</div>
@@ -134,14 +108,12 @@
 				</div>
 			</div>
 		</div>
-		<div class="footer-copyright-text text-center">
-			<p>© 2020 <a href="#">ELTRON ENERGY.</a></p>
+		<!-- <div class="footer-copyright-text text-center">
+			<p>© 2021 <a href="#">Jai Solar Energy</a></p>
 			<div class="copyright-menu">
 				<a href="#">Terms</a>
-				<a href="#"> Privacy Policy </a>
-				<a href="#">Sitemap</a>
 			</div>
-		</div>
+		</div> -->
 	</footer>
 <!-- End of Footer section
 	============================================= -->	

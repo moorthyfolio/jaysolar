@@ -45,7 +45,7 @@
 						<div class="header_top_info float-right">
 							<div class="top_info_item top_info_menu ul-li clearfix">
 								<ul>
-									<li><a href="#">Follow Us</a></li>
+									<!-- <li><a href="#">Follow Us</a></li> -->
 								</ul>
 							</div>
 							<div class="top_info_item top_info_social ul-li clearfix">
@@ -72,7 +72,7 @@
 					<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="service.php">Products</a></li>
-							<li><a href="blog.php">Blog</a></li>
+							<!-- <li><a href="blog.php">Blog</a></li> -->
 							<li><a href="gallery.php">Gallery</a></li>							
 							<li><a href="contact.php">Support</a></li>
 							<li><a href="contact.php">Contact</a></li>
@@ -96,7 +96,9 @@
 						</div>
 					</div> -->
 					<div class="con-btn text-center  text-uppercase">
-						<a href="#">consultation <i class="flaticon-next"></i></a>
+						<a href="#">Enquiry
+							<!-- <i class="flaticon-next"></i> -->
+						</a>
 					</div>
 				</div>
 			</div>
@@ -126,7 +128,7 @@
 							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="service.php">Products</a></li>
-							<li><a href="blog.php">Blog</a></li>
+							<!-- <li><a href="blog.php">Blog</a></li> -->
 							<li><a href="gallery.php">Gallery</a></li>							
 							<li><a href="contact.php">Support</a></li>
 							<li><a href="contact.php">Contact</a></li>
@@ -134,8 +136,8 @@
 					</nav>
 					<div class="mobile-contact-info text-center ul-li-block">
 						<ul>
-							<li> <i class="icon-call-out"></i> +1 (700) 230-0035</li>
-							<li> <i class="icon-envelope-letter"></i> support@eltron.com</li>
+							<li> <i class="icon-call-out"></i>+91 98430 71622</li>
+							<li> <i class="icon-envelope-letter"></i> enquiry@jaisolar.com</li>
 						</ul>
 					</div>
 					<div class="mobile-follow text-center ul-li">

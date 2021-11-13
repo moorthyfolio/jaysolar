@@ -1,8 +1,6 @@
 (function($) {
 	
-	"use strict";
-	
-	
+	"use strict";	
 	
 	//Contact Form Validation
 	if($('#contact-form').length){

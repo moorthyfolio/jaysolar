@@ -1,9 +1,8 @@
 /* -----------------------------------------------------------------------------
-
-
-
 File:           JS Core
+
 Version:        1.0
+
 Last change:    00/00/00 
 -------------------------------------------------------------------------------- */
 (function() {
@@ -70,6 +69,7 @@ Last change:    00/00/00
 			},
 			MianSlider: function (){
 				jQuery('#slider-main').owlCarousel({
+					height:500,
 					items: 1,
 					loop: true,
 					nav: true,
@@ -181,10 +181,11 @@ Last change:    00/00/00
 				$('#features-slide-id').owlCarousel({
 					margin: 30,
 					responsiveClass:true,
-					nav: false,
+					nav: true,
 					dots: true,
 					autoplay: false,
 					smartSpeed: 1000,
+					navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>'],
 					responsive:{
 						0:{
 							items:1,
@@ -209,10 +210,11 @@ Last change:    00/00/00
 				$('#partner-slide-id').owlCarousel({
 					margin: 70,
 					responsiveClass:true,
-					nav: false,
+					nav: true,
 					dots: true,
 					autoplay: false,
 					smartSpeed: 1000,
+					navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>'],
 					responsive:{
 						0:{
 							items:1,
@@ -228,7 +230,6 @@ Last change:    00/00/00
 						},
 						1000:{
 							items:4,
-
 						}
 					},
 				})
