@@ -29,7 +29,7 @@
 		<div class="container">
 			<div class="project-text-content">
 				<div class="row">
-					<div class="col-lg-5 col-md-12">
+					<div class="col-lg-4 col-md-12">
 						<div class="section-title-left">
 							<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Our Works Worldwide</span>
 							<h2>Latest World
@@ -37,14 +37,14 @@
 						</div>
 						<!-- title -->
 					</div>
-					<div class="col-lg-7 col-md-12">
+					<div class="col-lg-8 col-md-12">
 						<div class="project-filter-btn ul-li text-center">
 							<div class="button-group portfolio text-uppercase clearfix">
 								<button class="filter-button is-checked" data-filter="*">all</button>
-								<button class="filter-button" data-filter=".branding">Wind Energy</button>
-								<button class="filter-button" data-filter=".fashion">Solar Power</button>
-								<button class="filter-button" data-filter=".featured">Water Turbines</button>
-								<button class="filter-button" data-filter=".graphic">Hybrid Energy</button>
+								<button class="filter-button" data-filter=".branding">Power Plant</button>
+								<button class="filter-button" data-filter=".fashion">Invertor & UPS</button>
+								<button class="filter-button" data-filter=".featured">Water Heater</button>
+								<button class="filter-button" data-filter=".graphic">Water Pump</button>
 							</div>
 						</div>
 					</div>

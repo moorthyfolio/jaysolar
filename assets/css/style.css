@@ -1232,10 +1232,10 @@ select:visited {
     .feature-style-two .feature-slide-icon-text .feature-slide-text p {
       color: rgba(255, 255, 255, 0.502); }
     .feature-style-two .feature-slide-icon-text:hover {
-      background-color: #0d1c25;
-      border: 1px solid  #0d1c25; }
+      background-color: #033244;
+      border: 1px solid  #f1c112; }
       .feature-style-two .feature-slide-icon-text {
-        min-height: 385px;
+        min-height: 410px;
       }
 
 

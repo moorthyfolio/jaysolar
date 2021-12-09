@@ -37,7 +37,7 @@
 						<div class="header_top_contact ul-li clearfix">
 							<ul>
 								<li> <i class="icon-call-out"></i>+91 98430 71622</li>
-								<li> <i class="icon-envelope-letter"></i> enquiry@jaisolar.com</li>
+								<li> <i class="icon-envelope-letter"></i>kandasamy.jaisolar@gmail.com</li>
 							</ul>
 						</div>
 					</div>
@@ -51,10 +51,8 @@
 							<div class="top_info_item top_info_social ul-li clearfix">
 								<ul>
 									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
 									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
 								</ul>
 							</div>
 						</div>

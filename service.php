@@ -221,7 +221,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="feature-call-content headline pera-content">
-							<h3>Get a Free Consultation, Call us <span>+91 98430 71622</span></h3>
+							<h3>Get a Free Consultation, <span>+91 98430 71622</span></h3>
 							<p>Enhance The Energy Production Lorem ipsum dolor sit amet consectetur adipisicing elit
 							</p>
 							<a href="#">get in touch <i class="flaticon-next"></i></a>
