@@ -546,7 +546,7 @@ select:visited {
         background-color: #f1c112; }
 
 .site-main-menu {
-  padding: 20px 0px 14px; }
+  padding: 15px 0px 3px; }
   .site-main-menu .brand-logo {
     margin-right: 45px; }
   .site-main-menu .navbar-nav {
@@ -560,7 +560,7 @@ select:visited {
         color: #222222;
         font-size: 14px;
         font-weight: 700;
-        padding: 40px 10px 31px;
+        padding: 35px 10px 31px;
        }
 
         .site-main-menu .main_navigation li a:hover {
@@ -3077,7 +3077,9 @@ select:visited {
   .header_style_two .header_top {
     padding-left: 20px; }
   .site-main-menu .brand-logo {
-    margin-right: 33px; }
+    margin-right: 33px; 
+    width: 200px;
+  }
   .site-main-menu .main_navigation li {
     margin-left: 30px; }
   #slider-eltron .owl-prev,

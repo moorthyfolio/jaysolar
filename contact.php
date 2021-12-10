@@ -39,7 +39,7 @@
 								<div class="contact-text pera-content headline">
 									<h4>Corporate Office</h4>
 									<p>R.S. No 140/2, Pondy – Tindivanam Main Road,
-									   Pattanur, Vanur TK,</br> Villupuram Dist.,</br>
+									   Pattanur, Vanur TK, Villupuram Dist.,</br>
 									   Tamilnadu – 605 101.</p>
 								</div>
 							</div>

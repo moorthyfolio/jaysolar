@@ -112,15 +112,10 @@
 					<div class="el-mobile_menu_close s2-open_mobile_menu">
 						<i class="fas fa-arrow-circle-right"></i>
 					</div>
-					<div class="m-brand-logo text-center">
-						<a href="#"><img src="assets/img/logo/logo1.png" alt=""></a>
+					<div class="m-brand-logo text-center" style="width:200px";>
+						<a href="#"><img src="assets/img/logo/jay-solar-svg.svg" alt="" ></a>
 					</div>
-					<div class="mobile-search">
-						<form class="form-item position-relative" action="#" method="">
-							<input type="search" placeholder="search...">
-							<button type="submit" ><i class="fas fa-search"></i></button>
-						</form>
-					</div>
+				
 					<nav class="el-mobile-main-navigation  clearfix ul-li">
 						<ul id="main-nav" class="navbar-nav text-capitalize clearfix">
 							<li><a href="index.php">Home</a></li>
@@ -135,21 +130,19 @@
 					<div class="mobile-contact-info text-center ul-li-block">
 						<ul>
 							<li> <i class="icon-call-out"></i>+91 98430 71622</li>
-							<li> <i class="icon-envelope-letter"></i> enquiry@jaisolar.com</li>
+							<li> <i class="icon-envelope-letter"></i>kandasamy.jaisolar@gmail.com</li>
 						</ul>
 					</div>
 					<div class="mobile-follow text-center ul-li">
-						<span>Follow Eltron:</span>
+						<span>Follow Jaysolar:</span>
 						<ul>
 							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-							<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-							<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+							<li><a href="#"><i class="fab fa-youtube"></i></a></li>
 						</ul>
 					</div>
 					<div class="mobile-consult-btn text-uppercase">
-						<a href="#">Consultation</a>
+						<a href="#">Enquiry</a>
 					</div>
 				</div>
 			</div>
