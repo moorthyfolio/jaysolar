@@ -26,8 +26,7 @@
 	<section id="driven-solution" class="driven-solution-section service-page-driven position-relative">
 		<div class="container">
 			<div class="section-title-left text-center">
-				<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Energy </span>
-				<h2>Our Recent Products</h2>
+				<h2>OUR SERVICES</h2>
 			</div>
 			<!-- title -->
 			<div class="features-content">

@@ -108,11 +108,12 @@
 	--->
 <!-- End of Team section
 	============================================= -->
-	<div class="container">
-			<h2 class="title-tag">About Jay Solar</h2>
-			<p>
-			We offers end to end services in setting up Rooftop based Solar Photovoltaic power projects on EPC or turnkey basis. It conceives & implements solar power projects from the concept to installation and maintenance, using the best available technologies and cutting edge technical solutions by relying on highly qualified professionals to accomplish the deliverable at international standards.
+	<div class="container padding-50">
+	<div class="section-title-middle text-center">
+				<h2>Our Satisfied Clients</h2>
+		<p>We offers end to end services in setting up Rooftop based Solar Photovoltaic power projects on EPC or turnkey basis. It conceives & implements solar power projects from the concept to installation and maintenance, using the best available technologies and cutting edge technical solutions by relying on highly qualified professionals to accomplish the deliverable at international standards.
 			</p>
+			</div>
 	</div>
 
 <!-- Start of eltron info section

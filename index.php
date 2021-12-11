@@ -249,51 +249,6 @@
 <!-- End of Features section
 	============================================= -->							
 
-<!-- Start of service section
-	============================================= -->
-	<section id="service" class="service-section">
-		<div class="service-content">
-			<div class="service-pic-text position-relative">
-				<div class="service-pic">
-					<img src="assets/img/service/ser1.jpg" alt="">
-				</div>
-				<div class="service-text text-center text-uppercase">
-					<h3>Solar Panel</h3>
-					<a href="#">Read More <i class="flaticon-next"></i></a>
-				</div>
-			</div>
-			<div class="service-pic-text position-relative">
-				<div class="service-pic">
-					<img src="assets/img/service/ser2.jpg" alt="">
-				</div>
-				<div class="service-text text-center text-uppercase">
-					<h3>LED Lighting</h3>
-					<a href="#">Read More <i class="flaticon-next"></i></a>
-				</div>
-			</div>
-			<div class="service-pic-text position-relative">
-				<div class="service-pic">
-					<img src="assets/img/service/ser3.jpg" alt="">
-				</div>
-				<div class="service-text text-center text-uppercase">
-					<h3>Invertor UPS</h3>
-					<a href="#">Read More <i class="flaticon-next"></i></a>
-				</div>
-			</div>
-			<div class="service-pic-text position-relative">
-				<div class="service-pic">
-					<img src="assets/img/service/ser4.jpg" alt="">
-				</div>
-				<div class="service-text text-center text-uppercase">
-					<h3>Solar Heater</h3>
-					<!-- <h3>VOLTAGE STABILIZER</h3> -->
-					<a href="#">Read More <i class="flaticon-next"></i></a>
-				</div>
-			</div>
-		</div>
-	</section>
-<!-- End of Features section
-	============================================= -->
 
 <!-- Start of advantage section
 	============================================= -->

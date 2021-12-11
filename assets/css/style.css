@@ -1137,7 +1137,9 @@ select:visited {
   -o-transition: .3s all ease-in-out;
   transition: .3s all ease-in-out; }
   .features-icon-text .features-icon {
-    margin-bottom: 20px; }
+    position: absolute;
+    margin: -103px 131px;  
+   }
     .features-icon-text .features-icon svg {
       height: 90px;
       fill: #f1c112; }
@@ -1149,7 +1151,7 @@ select:visited {
   .features-icon-text .features-text p {
     font-weight: 300;
     font-size: 14px; }
-  .features-icon-text .features-hover-content {
+  /* .features-icon-text .features-hover-content {
     top: 0;
     z-index: 2;
     width: 100%;
@@ -1162,7 +1164,7 @@ select:visited {
     border-radius: 2px;
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
-    transition: .3s all ease-in-out; }
+    transition: .3s all ease-in-out; } */
     .features-icon-text .features-hover-content .fh-icon-bg {
       position: absolute;
       z-index: -1;
@@ -1598,7 +1600,7 @@ select:visited {
   .project-section .project-text-content {
     padding-bottom: 20px; }
   .project-section .section-title-left {
-    max-width: 330px; }
+    max-width: 100%; }
   .project-section .grid-item-width {
     width: 33.33%; }
   .project-section .grid-item-big {
@@ -1615,7 +1617,7 @@ select:visited {
     position: relative;
     display: inline-block; }
   .project-section .project-filter-btn {
-    padding-top: 113px; }
+    padding-top: 48px; }
     .project-section .project-filter-btn button {
       border: none;
       color: #555555;
@@ -2605,7 +2607,7 @@ select:visited {
 /*breadcurmb area*/
 /*----------------------------------------------------*/
 .breadcrumb-section {
-  padding: 135px 0px;
+  padding: 60px 0px;
   position: relative;
   z-index: 1; }
   .breadcrumb-section .background_overlay {
