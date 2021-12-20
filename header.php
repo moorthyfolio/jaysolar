@@ -64,13 +64,13 @@
 		<div class="site-main-menu clearfix">
 			<div class="container">
 				<div class="brand-logo float-left">
-					<a href="#"><img src="assets/img/logo/jay-solar-svg.svg" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/jay-solar-svg.svg" alt=""></a>
 				</div>
 				<nav class="main_navigation desktop-menu ul-li">
 					<ul id="main-nav" class="navbar-nav text-uppercase clearfix">
 					<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="service.php">Services</a></li>
+							<li><a href="services.php">Services</a></li>
 							<!-- <li><a href="blog.php">Blog</a></li> -->
 							<li><a href="gallery.php">Gallery</a></li>		
 							<li><a href="contact.php">Contact Us</a></li>
@@ -113,14 +113,14 @@
 						<i class="fas fa-arrow-circle-right"></i>
 					</div>
 					<div class="m-brand-logo text-center" >
-						<a href="#"><img src="assets/img/logo/jay-solar-svg.svg" alt="" ></a>
+						<a href="index.php"><img src="assets/img/logo/jay-solar-svg.svg" alt="" ></a>
 					</div>
 				
 					<nav class="el-mobile-main-navigation  clearfix ul-li">
 						<ul id="main-nav" class="navbar-nav text-capitalize clearfix">
 							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="service.php">Products</a></li>
+							<li><a href="services.php">Products</a></li>
 							<!-- <li><a href="blog.php">Blog</a></li> -->
 							<li><a href="gallery.php">Gallery</a></li>							
 							<li><a href="contact.php">Support</a></li>

@@ -40,14 +40,14 @@
 							<div class="footer-widget-item pera-content">
 								<div class="footer-logo-widget">
 									<a class="footer-logo" href="#"><img src="assets/img/logo/f-logo.png" alt=""></a>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our mission, as a solar power solution provider, is to be a part of the environmental solution by making solar energy possible for businesses and homes.</p>
-									<div class="footer-social">
+									<p>Our mission, as a solar power solution provider, is to be a part of the environmental solution by making solar energy possible for businesses and homes.</p>
+									<!-- <div class="footer-social">
 										<a href="#"><i class="fab fa-facebook-f"></i></a>
 										<a href="#"><i class="fab fa-twitter"></i></a>
 										<a href="#"><i class="fab fa-google-plus-g"></i></a>
 										<a href="#"><i class="fab fa-linkedin-in"></i></a>
 										<a href="#"><i class="fab fa-vimeo-v"></i></a>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
@@ -60,7 +60,6 @@
 										<li><a href="#">About</a></li>
 										<li><a href="#">Products</a></li>
 										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Support</a></li>
 										<li><a href="#">Contact</a></li>
 									</ul>
 								</div>
@@ -71,12 +70,8 @@
 								<div class="footer-menu-widget ul-li-block">
 									<h3 class="el-widget-title">Our Services</h3>
 									<ul>
-										<li><a href="#">Solar Power Plant</a></li>
-										<li><a href="#">Solar Inverter / Ups</a></li>
-										<li><a href="#">Solar Air Conditioner</a></li>
-										<li><a href="#">Solar Water Pump</a></li>
-										<li><a href="#">Servo Controlled Volt Stabilizer</a></li>
-										<li><a href="#">Solar Water Heater</a></li>
+										<li><a href="#">Roof top projects</a></li>
+										<li><a href="#">Ground mounted projects</a></li>
 									</ul>
 								</div>
 							</div>
@@ -85,19 +80,6 @@
 							<div class="footer-widget-item pera-content">
 								<div class="footer-location-widget ul-li-block">
 									<h3 class="el-widget-title">Our Locations</h3>
-									<div class="loaction-select position-relative">
-										<select>
-											<option>
-											Pondy 
-											</option>
-											<!-- <option>
-											,Pattanur, Vanur TK, Villupuram Dist.,
-											</option>
-											<option>
-											Tamilnadu – 605 101. -->
-											</option>
-										</select>
-									</div>
 									<div class="footer-map">
 										<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="170" frameborder="0" scrolling="no"></iframe></div>
 									</div>

@@ -546,7 +546,7 @@ select:visited {
         background-color: #f1c112; }
 
 .site-main-menu {
-  padding: 15px 0px 3px; }
+  padding: 8px 0px 3px; }
   .site-main-menu .brand-logo {
     margin-right: 45px; }
   .site-main-menu .navbar-nav {
@@ -560,15 +560,17 @@ select:visited {
         color: #222222;
         font-size: 14px;
         font-weight: 700;
-        padding: 35px 10px 31px;
-       }
+        padding: 28px 10px 28px;
+    }
 
-        .site-main-menu .main_navigation li a:hover {
-          color: #fff !important;
-          background: #0070a1 !important;
-          -webkit-transition: all 0.3s ease-in-out;
-          transition: all 0.3s ease-in-out;
-      }
+    .site-main-menu .main_navigation li a:hover {
+      color: #fff !important;
+      /* background: #3098cd; */
+      background: linear-gradient( 
+            0deg,#2b9ad382 -29%, #0070a1 32%);
+      -webkit-transition: all 0s ease-in-out;
+      transition: all 0.1s ease-in-out;
+  }
 
   .site-main-menu .site-search-btn .el-search {
     display: inline-block; }
@@ -576,8 +578,8 @@ select:visited {
     border-radius: 5px;
     background-color: #f1c112;
     padding: 6px 23px;
-    margin-top: 5px;
-    box-shadow: 0px 10px 10px rgb(193 151 0 / 44%);
+    margin-top: 9px;
+    box-shadow: 0px 7px 7px rgb(193 151 0 / 44%);
   }
     .site-main-menu .site-search-btn .con-btn:hover  {
       
@@ -812,7 +814,7 @@ select:visited {
   transition: .3s all ease-in-out; }
 
 .main_header.header_style_one.stickymenu-on {
-  top: -58px;
+  top: -42px;
   z-index: 999;
   width: 100%;
   -webkit-box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.8);
@@ -1115,7 +1117,8 @@ select:visited {
   padding: 70px 0px 70px; }
   .features-section .background_overlay {
     z-index: -1;
-    background: linear-gradient(60deg,#0889c9, #0070a1);
+    background: linear-gradient(
+      60deg, #005c85,#0087c9, #005c85);
    }
   .features-section .section-title-middle {
     margin: 0 auto;
@@ -1136,13 +1139,10 @@ select:visited {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
   transition: .3s all ease-in-out; }
-  .features-icon-text .features-icon {
-    position: absolute;
-    margin: -103px 131px;  
-   }
+ 
     .features-icon-text .features-icon svg {
       height: 90px;
-      fill: #f1c112; }
+      fill: #0786c5; }
   .features-icon-text .features-text h3 {
     color: #222222;
     font-size: 22px;
@@ -1151,20 +1151,20 @@ select:visited {
   .features-icon-text .features-text p {
     font-weight: 300;
     font-size: 14px; }
-  /* .features-icon-text .features-hover-content {
+  .features-icon-text .features-hover-content {
     top: 0;
     z-index: 2;
     width: 100%;
     height: 100%;
     padding: 50px 45px;
     position: absolute;
-    background-color: #0fc5d3;
+    background-color: #072c3e;
     opacity: 0;
     visibility: hidden;
     border-radius: 2px;
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
-    transition: .3s all ease-in-out; } */
+    transition: .3s all ease-in-out; }
     .features-icon-text .features-hover-content .fh-icon-bg {
       position: absolute;
       z-index: -1;
@@ -1190,7 +1190,7 @@ select:visited {
         color: #fff;
         font-size: 18px; }
   .features-icon-text:hover {
-    padding-bottom: 65px;
+    /* padding-bottom: 65px; */
     margin-bottom: 0px; }
     .features-icon-text:hover .features-hover-content {
       opacity: 1;
@@ -1857,7 +1857,7 @@ select:visited {
   padding: 40px 0px 180px; }
   .testimonial-section .section-title-middle {
     margin: 0 auto;
-    max-width: 525px;
+    max-width: 577px;
     padding-bottom: 50px; }
   .testimonial-section .testimonial-content {
     display: -webkit-box;
@@ -1929,15 +1929,16 @@ select:visited {
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
     transition: .3s all ease-in-out; }
+    
     #testimonial-slideid .owl-nav .owl-prev:hover,
     #testimonial-slideid .owl-nav .owl-next:hover {
       color: #fff;
       background-color: #0071b4;
       border: 1px solid #0071b4; }
 
-.about-page-testimonial {
-  padding: 195px 0px 250px; }
-
+      .about-page-testimonial {
+        padding: 87px 0px 188px;
+    }
 /*---------------------------------------------------- */
 /*blog area*/
 /*----------------------------------------------------*/
@@ -2481,11 +2482,13 @@ select:visited {
   overflow: visible; }
   .eltron-info-section .info-content {
     bottom: -90px;
-    max-width: 770px;
+    max-width: 570px;
     position: relative;
     display: inline-block;
-    padding: 60px 100px 70px;
-    z-index: 1; }
+    padding: 32px 43px 70px;
+    z-index: 1;
+    max-height: 500px;
+}
     .eltron-info-section .info-content .section-title-left span {
       color: #fff; }
     .eltron-info-section .info-content .section-title-left h2 {
@@ -2651,7 +2654,7 @@ select:visited {
   height: 555px; }
 
 .contact-page-section {
-  padding: 100px 0px 160px; }
+  padding: 70px 0px 80px;}
   .contact-page-section .contact-form-text {
     max-width: 500px; }
     .contact-page-section .contact-form-text h3 {
@@ -2693,7 +2696,7 @@ select:visited {
   .contact-page-section .el-contact-form {
     -webkit-box-shadow: 0px 9px 40px 0px rgba(193, 193, 193, 0.5);
     box-shadow: 0px 9px 40px 0px rgba(193, 193, 193, 0.5);
-    padding: 50px 30px; }
+    padding: 30px 30px; }
     .contact-page-section .el-contact-form h3 {
       color: #222222;
       font-size: 36px;
@@ -2704,10 +2707,10 @@ select:visited {
       height: 55px;
       width: 100%;
       padding-left: 30px;
-      margin-bottom: 20px;
+      margin-bottom: 15px;
       border: 1px solid #e4e6e9; }
     .contact-page-section .el-contact-form .contact-form-area textarea {
-      height: 128px;
+      height: 90px;
       padding-top: 20px; }
     .contact-page-section .el-contact-form .contact-form-area .sub-button button {
       text-transform: uppercase;
@@ -3467,7 +3470,7 @@ select:visited {
 	color:#ff0000;
 	font-weight:500;	
 }
-
+/* 
 .owl-prev {
   width: 15px;
   height: 100px;
@@ -3491,4 +3494,4 @@ select:visited {
 
 .owl-slider-height{
   height: 500px;
-}
+} */

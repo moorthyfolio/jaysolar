@@ -64,10 +64,10 @@
 							<form method="post" action="sendemail.php" id="contact-form">
 								<input class="" name="name" type="text" placeholder="Full Name">
 								<input class="" name="email" type="email" placeholder="Email">
-								<input class="" name="subject" type="text" placeholder="Subject">
-								<textarea id="message" name="message" placeholder="Comments*"></textarea>
+								<input class="" name="number" type="text" placeholder="Number">
+								<textarea id="message" name="message" placeholder="Comments"></textarea>
 								<div class="sub-button  text-uppercase">
-									<button type="submit" value="Submit">Send Message <img src="assets/img/arrow3.png" alt=""></button> 
+								<button type="submit" value="Submit">Send Message <img src="assets/img/arrow3.png" alt=""></button>
 								</div> 
 							</form>
 						</div>
@@ -84,7 +84,7 @@
 <!-- Start of Contact map section
 	============================================= -->
 	<div id="google-map">
-		<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; padding: 10px;"><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
+		<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; "><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
 	</div><!-- /#google-map-->
 <!-- End Contact map section
 	============================================= -->		

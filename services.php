@@ -38,7 +38,7 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Fencing</h3>
-								<p>Enhance The Energy Production</p>
+								<p>Jaysolar offers end to end services in setting up Rooftop based Solar Photovoltaic power projects. Our Solar division is specialized in the setting up of solar photo voltaic power plants on EPC or turnkey basis.</p>
 							</div>
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
@@ -46,9 +46,6 @@
 									<p>At dolore magna aliqua enim veniam 
 										aliquip exa aute irure dolor reprehen
 									quis nostrud exercitation.</p>
-									<div class="fh-more">
-										<a href="#">Read More <img src="assets/img/arrow3.png" alt=""></a>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -341,5 +338,4 @@
 $(".fa-angle-left").click(()=>{
 	alert("left");
 })
-
 </script>

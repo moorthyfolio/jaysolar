@@ -156,7 +156,7 @@ Last change:    00/00/00
 				jQuery('#testimonial-slideid').owlCarousel({
 					items: 1,
 					loop: true,
-					nav: true,
+					nav: false,
 					dots: false,
 					autoplay: false,
 					navSpeed: 800,
@@ -181,7 +181,7 @@ Last change:    00/00/00
 				$('#features-slide-id').owlCarousel({
 					margin: 30,
 					responsiveClass:true,
-					nav: true,
+					nav: false,
 					dots: true,
 					autoplay: false,
 					smartSpeed: 1000,
@@ -210,7 +210,7 @@ Last change:    00/00/00
 				$('#partner-slide-id').owlCarousel({
 					margin: 70,
 					responsiveClass:true,
-					nav: true,
+					nav: false,
 					dots: true,
 					autoplay: false,
 					smartSpeed: 1000,
@@ -243,7 +243,7 @@ Last change:    00/00/00
 					}
 				});
 
-				$('.scrollup').on("click", function()  {
+				$('.scrollup').on("click", function(){
 					$("html, body").animate({
 						scrollTop: 0
 					}, 800);
@@ -277,7 +277,6 @@ Last change:    00/00/00
 						marker: {
 							latLng: [40.712776,-74.005974],
 							options: { icon: 'assets/img/map.png' }
-
 						}
 					});
 				}
