@@ -170,7 +170,7 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Rooftop</h3>
-								<p>Enhance The Energy Production</p>
+								<p>Solar Rooftop system are installed on the roof. Power demands are easily met choosing </p>
 							</div>
 							<div class="features-hover-content">								
 								<div class="features-hover-text headline pera-content">
@@ -267,7 +267,7 @@
 					<div class="col-lg-3 col-md-6">
 						<div class="advantage-img-text">
 							<div class="advantage-text text-center text-uppercase headline">
-								<h3>Long-term performance</h3>
+								<h3>Long-term performance measures </h3>
 							</div>
 							<div class="advantage-img">
 								<img src="assets/img/advantage/avd3.jpg" alt="">

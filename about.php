@@ -108,13 +108,7 @@
 	--->
 <!-- End of Team section
 	============================================= -->
-	<div class="container padding-50">
-	<div class="section-title-middle text-center">
-				<h2>Our Satisfied Clients</h2>
-		<p>World class remote monitoring and O&M to maximize operational performance.
-			</p>
-			</div>
-	</div>
+
 
 <!-- Start of eltron info section
 	============================================= -->
@@ -156,7 +150,7 @@
 <!-- Start of testimonial section
 	============================================= -->
 	<section id="testimonial" class="testimonial-section about-page-testimonial">
-		<div class="container">
+		<div class="container padding-top-60">
 			<div class="section-title-middle text-center">
 			
 				<h2>Our Satisfied Clients</h2>

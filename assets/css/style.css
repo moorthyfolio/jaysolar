@@ -567,7 +567,7 @@ select:visited {
       color: #fff !important;
       /* background: #3098cd; */
       background: linear-gradient( 
-            0deg,#2b9ad382 -29%, #0070a1 32%);
+            0deg,rgba(43, 154, 211, 0.51) -29%, #0070a1 32%);
       -webkit-transition: all 0s ease-in-out;
       transition: all 0.1s ease-in-out;
   }
@@ -1533,7 +1533,7 @@ select:visited {
     .advantage-section .advantage-content .col-lg-3:nth-child(2) .advantage-img-text .advantage-text h3 {
       color: #fff; }
   .advantage-section .advantage-content .col-lg-3:nth-child(3) .advantage-img-text .advantage-text {
-    background-color: #0fc5d3; }
+    background-color:#058bd1; }
     .advantage-section .advantage-content .col-lg-3:nth-child(3) .advantage-img-text .advantage-text h3 {
       color: #fff; }
 
