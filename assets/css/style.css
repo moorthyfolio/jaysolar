@@ -508,7 +508,8 @@ select:visited {
 /*Header area*/
 /*----------------------------------------------------*/
 .header_top {
-  background: linear-gradient(-180deg,#0889c9, #0070a1);
+  background: linear-gradient(
+    -180deg,#0e6793, #058fcb);
   padding: 5px 0px; }
   .header_top .header_top_contact li {
     color: #fff;
@@ -516,6 +517,10 @@ select:visited {
     margin-right: 30px; 
     font-size: 0.9rem;
     }
+  .header_top .header_top_contact i {
+    position: absolute;
+    margin: -2px -23px;
+  }
     .header_top .header_top_contact li i {
       font-size: 18px;
       margin-right: 8px; }
@@ -546,30 +551,31 @@ select:visited {
         background-color: #f1c112; }
 
 .site-main-menu {
-  padding: 8px 0px 3px; }
+  padding: 3px 0px 3px; }
   .site-main-menu .brand-logo {
     margin-right: 45px; }
   .site-main-menu .navbar-nav {
     display: inline-block;
-    padding-top: 15px; }
+    padding-top: 15px;
+    margin-left: 50px; }
   .site-main-menu .main_navigation {
     display: inline-block; }
     .site-main-menu .main_navigation li {
       margin-left: 10px; }
       .site-main-menu .main_navigation li a {
-        color: #222222;
-        font-size: 14px;
-        font-weight: 700;
-        padding: 28px 10px 28px;
+        color: #0a69a1;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 23px 10px 25px;
     }
 
     .site-main-menu .main_navigation li a:hover {
       color: #fff !important;
-      /* background: #3098cd; */
-      background: linear-gradient( 
-            0deg,rgba(43, 154, 211, 0.51) -29%, #0070a1 32%);
-      -webkit-transition: all 0s ease-in-out;
-      transition: all 0.1s ease-in-out;
+    /* background: #3098cd; */
+    background: linear-gradient( 
+0deg,rgb(241 193 18) 10%, #058fcb 10%);
+    -webkit-transition: all 0s ease-in-out;
+    transition: all 0.1s ease-in-out;
   }
 
   .site-main-menu .site-search-btn .el-search {
@@ -578,8 +584,8 @@ select:visited {
     border-radius: 5px;
     background-color: #f1c112;
     padding: 6px 23px;
-    margin-top: 9px;
-    box-shadow: 0px 7px 7px rgb(193 151 0 / 44%);
+    margin-top: 11px;
+    /* box-shadow: 0px 7px 7px rgb(193 151 0 / 44%); */
   }
     .site-main-menu .site-search-btn .con-btn:hover  {
       
@@ -591,7 +597,7 @@ select:visited {
       width: 100%;
       display: block;
       font-size: 14px;
-      font-weight: 700; }
+      font-weight: 600; }
 
 .main_navigation.desktop-menu .dropdown-menu {
   top: 48px;
@@ -1149,8 +1155,9 @@ select:visited {
     font-weight: 700;
     padding-bottom: 8px; }
   .features-icon-text .features-text p {
-    font-weight: 300;
-    font-size: 14px; }
+    font-weight: 400;
+    font-size: 14px; 
+    padding: 0px 52px;}
   .features-icon-text .features-hover-content {
     top: 0;
     z-index: 2;
@@ -1859,6 +1866,9 @@ select:visited {
     margin: 0 auto;
     max-width: 577px;
     padding-bottom: 50px; }
+    .testimonial-section .section-title-middle p{
+      font-weight:500;
+    }
   .testimonial-section .testimonial-content {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2353,11 +2363,12 @@ select:visited {
     padding: 35px 0px;
     background-color: #eda213; }
     .newslatter-section .newslatter-content .newslatter-icon {
-      background-color: #ca8a10; }
+      background-color: #ca8a10;
+      margin-left: 50px; }
       .newslatter-section .newslatter-content .newslatter-icon i {
         color: #fff; }
     .newslatter-section .newslatter-content .newslatter-text {
-      margin-top: 25px; }
+      margin-top: 15px; }
       .newslatter-section .newslatter-content .newslatter-text h2 {
         color: #fff;
         font-size: 22px;
@@ -2763,7 +2774,7 @@ select:visited {
     padding-left: 25px; }
 
 .footer-widget-area {
-  padding-bottom: 65px; }
+  padding-bottom: 25px; }
   .footer-widget-area .col-lg-3:nth-child(2) .footer-widget-item {
     margin-left: 55px; }
   .footer-widget-area .col-lg-3:nth-child(3) .footer-widget-item {
@@ -2781,7 +2792,8 @@ select:visited {
 
 .footer-widget-item .footer-logo-widget p {
   padding-bottom: 30px;
-  color: #999999; }
+  color: #999999;
+  line-height: 1.7; }
 
 .footer-widget-item .footer-logo-widget .footer-social a {
   width: 32px;
@@ -2801,7 +2813,7 @@ select:visited {
   margin-bottom: 25px; }
 
 .footer-widget-item .footer-menu-widget li {
-  margin-bottom: 5px; }
+  margin-bottom: 0.5px; }
   .footer-widget-item .footer-menu-widget li a {
     color: #999999; }
     .footer-widget-item .footer-menu-widget li a:hover {
@@ -2832,7 +2844,7 @@ select:visited {
 
 .footer-copyright-text {
   border-top: 2px solid #37434b;
-  padding: 35px 0px 25px; }
+  padding: 12px 0 0px; }
   .footer-copyright-text p {
     color: #999999;
     display: inline-block;

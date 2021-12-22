@@ -71,7 +71,8 @@
 									<h3 class="el-widget-title">Our Services</h3>
 									<ul>
 										<li><a href="#">Roof top projects</a></li>
-										<li><a href="#">Ground mounted projects</a></li>
+										<li><a href="#">Ground mounted </br>-projects</a></li>
+										<li><a href="#">Solar products</a></li>
 									</ul>
 								</div>
 							</div>
@@ -81,7 +82,7 @@
 								<div class="footer-location-widget ul-li-block">
 									<h3 class="el-widget-title">Our Locations</h3>
 									<div class="footer-map">
-										<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="170" frameborder="0" scrolling="no"></iframe></div>
+										<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="180" height="125" frameborder="0" scrolling="no"></iframe></div>
 									</div>
 								</div>
 							</div>
@@ -90,12 +91,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- <div class="footer-copyright-text text-center">
-			<p>© 2021 <a href="#">Jai Solar Energy</a></p>
+		<div class="footer-copyright-text text-center">
+			<p>© Copyright 2021© <a href="#">Jay Solar Energy</a></p>
 			<div class="copyright-menu">
-				<a href="#">Terms</a>
 			</div>
-		</div> -->
+		</div>
 	</footer>
 <!-- End of Footer section
 	============================================= -->	

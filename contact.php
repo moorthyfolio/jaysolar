@@ -81,10 +81,10 @@
 	============================================= -->	
 
 	
-<!-- Start of Contact map section
+<!-- Start of Contact map section   
 	============================================= -->
 	<div id="google-map">
-		<div class="earth3dmap-com"><iframe id="iframemap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13127.003284153501!2d79.77052526071881!3d11.996531586365423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53671027c3f0f5%3A0x910ca38aefa2769c!2sTindivanam%20Main%20Rd%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1633501074446!5m2!1sen!2sin" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; "><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
+		<div class="earth3dmap-com"><iframe id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.53037554847!2d79.91795176629799!3d12.937877295439002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x466225f81266f41d!2zMTLCsDU2JzE2LjQiTiA3OcKwNTUnMTAuMiJF!5e0!3m2!1sen!2sus!4v1638363907296!5m2!1sen!2sus" width="100%" height="500" frameborder="0" scrolling="no"></iframe><div style="color: #333; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right; "><a style="color: #333; text-decoration: underline; font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: right;" href="http://earth3dmap.com/?from=embed" target="_blank" ></a></div>
 	</div><!-- /#google-map-->
 <!-- End Contact map section
 	============================================= -->		

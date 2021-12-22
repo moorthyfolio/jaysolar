@@ -170,15 +170,14 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Rooftop</h3>
-								<p>Solar Rooftop system are installed on the roof. Power demands are easily met choosing </p>
+								<p>Rooftop solar bringing the energy of the future to you</p>
 							</div>
 							<div class="features-hover-content">								
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Rooftop</h3>
 									<p>At dolore magna aliqua enim veniam 
 										aliquip exa aute irure dolor reprehen
-									quis nostrud exercitation.</p>
-								
+									quis nostrud exercitation.</p>								
 								</div>
 							</div>
 						</div>
@@ -190,7 +189,7 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Ground Mounted</h3>
-								<p>Enhance The Energy Production</p>
+								<p>We assess your energy requirement, identify system components needed and to generate the optimum output.</p>
 							</div>
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
@@ -209,7 +208,7 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Products</h3>
-								<p>Enhance The Energy Production</p>
+								<p>Rooftop solar bringing the energy of the future to you</p>
 							</div>
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
@@ -260,14 +259,15 @@
 								<img src="assets/img/advantage/avd2.jpg" alt="">
 							</div>
 							<div class="advantage-text text-center text-uppercase headline">
-								<h3>Expert in executing Solar projects</h3>
+								<h3>Expert in executing Solar</h3>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="advantage-img-text">
 							<div class="advantage-text text-center text-uppercase headline">
-								<h3>Long-term performance measures </h3>
+								<h3>Cost efficiency &
+								Eco friendly</h3>
 							</div>
 							<div class="advantage-img">
 								<img src="assets/img/advantage/avd3.jpg" alt="">
@@ -280,8 +280,7 @@
 								<img src="assets/img/advantage/avd4.jpg" alt="">
 							</div>
 							<div class="advantage-text text-center text-uppercase headline">
-								<h3>Cost efficiency &
-								Eco friendly</h3>
+								<h3>Long-term performance </h3>
 							</div>
 						</div>
 					</div>

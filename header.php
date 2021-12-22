@@ -37,8 +37,8 @@
 					<div class="col-md-6">
 						<div class="header_top_contact ul-li clearfix">
 							<ul>
-								<li> <i class="icon-call-out"></i>+91 98430 71622</li>
-								<li> <i class="icon-envelope-letter"></i>kandasamy.jaisolar@gmail.com</li>
+								<li> <i class="fas fa-mobile-alt"></i>+91 98430 71622</li>
+								<li> <i class="fas fa-envelope"></i>kandasamy.jaisolar@gmail.com</li>
 							</ul>
 						</div>
 					</div>
@@ -64,7 +64,7 @@
 		<div class="site-main-menu clearfix">
 			<div class="container">
 				<div class="brand-logo float-left">
-					<a href="index.php"><img src="assets/img/logo/jay-solar-svg.svg" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/jay-solar-01.svg" alt=""></a>
 				</div>
 				<nav class="main_navigation desktop-menu ul-li">
 					<ul id="main-nav" class="navbar-nav text-uppercase clearfix">
@@ -113,7 +113,7 @@
 						<i class="fas fa-arrow-circle-right"></i>
 					</div>
 					<div class="m-brand-logo text-center" >
-						<a href="index.php"><img src="assets/img/logo/jay-solar-svg.svg" alt="" ></a>
+						<a href="index.php"><img src="assets/img/logo/jay-solar-01.svg" alt="" ></a>
 					</div>
 				
 					<nav class="el-mobile-main-navigation  clearfix ul-li">
