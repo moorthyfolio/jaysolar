@@ -170,14 +170,12 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Rooftop</h3>
-								<p>Rooftop solar bringing the energy of the future to you</p>
+								<p>Rooftop solar bringing the energy of the future to you.</p>
 							</div>
 							<div class="features-hover-content">								
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Rooftop</h3>
-									<p>At dolore magna aliqua enim veniam 
-										aliquip exa aute irure dolor reprehen
-									quis nostrud exercitation.</p>								
+									<p>The need of Rooftop Solar power plants is increasingly gaining popularity across a wide range of industrial, commercial, and residential sectors due to the relatively lower cost of investments and lesser complexities involved in setting up a plant.</p>								
 								</div>
 							</div>
 						</div>
@@ -189,14 +187,12 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Ground Mounted</h3>
-								<p>We assess your energy requirement, identify system components needed and to generate the optimum output.</p>
+								<p>We identify system components needed and to generate the optimum output.</p>
 							</div>
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Ground Mounted</h3>
-									<p>At dolore magna aliqua enim veniam 
-										aliquip exa aute irure dolor reprehen
-									quis nostrud exercitation.</p>
+									<p>Ground-mount solar panels can be placed anywhere in a yard or field that sees the sun for the majority of the day. Companies use solar energy and sometimes return it to the main power grid for resale so they can generate renewable energy.</p>
 								</div>
 							</div>
 						</div>
@@ -208,15 +204,12 @@
 							</div>
 							<div class="features-text headline pera-content">
 								<h3>Solar Products</h3>
-								<p>Rooftop solar bringing the energy of the future to you</p>
+								<p>Solar energy technologies have made generate solar products effectively.</p>
 							</div>
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Products</h3>
-									<p>At dolore magna aliqua enim veniam 
-										aliquip exa aute irure dolor reprehen
-									quis nostrud exercitation.</p>
-									
+									<p>We are engaged in wholesale trading LED Lights, Solar Water Heaters etc., Installation Services which are known for their dimensional accuracy, world class finish and ability to withstand high electric energy.</p>									
 								</div>
 							</div>
 						</div>

@@ -35,12 +35,14 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
+						<div class="header_left">
 						<div class="header_top_contact ul-li clearfix">
 							<ul>
-								<li> <i class="fas fa-mobile-alt"></i>+91 98430 71622</li>
+								<li> <i class="fas fa-mobile-alt" style="margin-left: -48px;"></i>+91 98430 71622</li>
 								<li> <i class="fas fa-envelope"></i>kandasamy.jaisolar@gmail.com</li>
 							</ul>
 						</div>
+					</div>
 					</div>
 					<div class="col-md-6">
 						<div class="header_top_info float-right">
@@ -70,8 +72,15 @@
 					<ul id="main-nav" class="navbar-nav text-uppercase clearfix">
 					<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="services.php">Services</a></li>
-							<!-- <li><a href="blog.php">Blog</a></li> -->
+							<li class="dropdown">
+								<a href="services.php">Services</a>
+								<span>
+									<ul class="dropdown-menu clearfix">
+										<li><a href="rooftop.php">Solar Roof top </a></li>
+										<li><a href="groundmount.php">Solar Ground Mount</a></li>
+									</ul>
+								</span>
+							</li>
 							<li><a href="gallery.php">Gallery</a></li>		
 							<li><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -118,13 +127,19 @@
 				
 					<nav class="el-mobile-main-navigation  clearfix ul-li">
 						<ul id="main-nav" class="navbar-nav text-capitalize clearfix">
-							<li><a href="index.php">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="services.php">Products</a></li>
-							<!-- <li><a href="blog.php">Blog</a></li> -->
-							<li><a href="gallery.php">Gallery</a></li>							
-							<li><a href="contact.php">Support</a></li>
-							<li><a href="contact.php">Contact</a></li>
+							<li class="dropdown">
+								<a href="services.php">Services</a>
+								<span>
+									<ul class="dropdown-menu clearfix">
+										<li><a href="rooftop.php">Solar Roof top </a></li>
+										<li><a href="groundmount.php">Solar Ground Mount</a></li>
+									</ul>
+								</span>
+							</li>
+							<li><a href="gallery.php">Gallery</a></li>		
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</nav>
 					<div class="mobile-contact-info text-center ul-li-block">

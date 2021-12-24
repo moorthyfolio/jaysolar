@@ -9,7 +9,7 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="breadcrumb-content headline">
-				<h2 class="breadcrumb-title"> Our Projects</h2>
+				<h2 class="breadcrumb-title">Gallery</h2>
 				<div class="breadcrumb_item ul-li">
 					<ul class="breadcrumb">
 						<li class="breadcrumb-item"><a href="#">Home</a></li>
@@ -21,10 +21,22 @@
 	</section>
 <!-- End of breadcrumb section
 	============================================= -->
-
+	<section id="eltron-team" class="eltron-team-section about-page-team">
+		<div class="container">
+			<div class="section-title-left text-center">
+				<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Energy Which Matters</span>
+				<h2>Latest Project We Done</h2>
+				<p>We have done projects across commercial buildings, corporate offices, IT parks, institutes, warehouses, and residential. Our expertise lies in installing rooftop and ground-mounted solar EPC systems for various sectors and roof types, including innovative applications like cantilever structures, elevated structures.</p>
+			</div>
+			
+		</div>
+	</section>
+		<!-- /post-item-list -->
+	</div>
 
 <!-- Start of project section
 	============================================= -->
+	
 	<section id="project" class="project-section">
 		<div class="container">
 			<div class="project-text-content">

@@ -23,94 +23,21 @@
 
 <!-- Start of Team section
 	============================================= -->
-	<!--
+
 	<section id="eltron-team" class="eltron-team-section about-page-team">
 		<div class="container">
 			<div class="section-title-left text-center">
 				<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Energy Which Matters</span>
-				<h2>Company Board Of Directors</h2>
+				<h2>How Solar Energy Work</h2>
+				<p>The installation very simple, the sun’s energy is captured and converted into energy that runs homes and businesses.</p>
+				<p>The fact is that the sun is a nuclear reactor, but of the natural kind. During the course of the reactions going on inside it, photons are released. Photons are small packets of energy that take around 8.5 seconds to traverse the distance between the sun and the earth. The sheer abundance of this source of energy can be guessed by the fact that the number of photons hitting the earth every hour can take care of all our energy needs for an entire year.</p>
 			</div>
-			<div class="team-content">
-				<div class="row">
-					<div class="col-lg-3  col-md-6">
-						<div class="team-member-box">
-							<div class="team-img">
-								<img src="assets/img/team/tm1.jpg" alt="">
-							</div>
-							<div class="team-text pera-content text-center headline">
-								<h3>Mark Dennis</h3>
-								<p>Chief Executive Officer</p>
-								<div class="team-social">
-									<a href="#"><i class="fab fa-facebook-f"></i></a>
-									<a href="#"><i class="fab fa-twitter"></i></a>
-									<a href="#"><i class="fab fa-google-plus-g"></i></a>
-									<a href="#"><i class="fab fa-linkedin-in"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3  col-md-6">
-						<div class="team-member-box">
-							<div class="team-img">
-								<img src="assets/img/team/tm2.jpg" alt="">
-							</div>
-							<div class="team-text pera-content text-center headline">
-								<h3>William Benson</h3>
-								<p>Chief Executive Officer</p>
-								<div class="team-social">
-									<a href="#"><i class="fab fa-facebook-f"></i></a>
-									<a href="#"><i class="fab fa-twitter"></i></a>
-									<a href="#"><i class="fab fa-google-plus-g"></i></a>
-									<a href="#"><i class="fab fa-linkedin-in"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-3  col-md-6">
-						<div class="team-member-box">
-							<div class="team-img">
-								<img src="assets/img/team/tm3.jpg" alt="">
-							</div>
-							<div class="team-text pera-content text-center headline">
-								<h3>James Anderson</h3>
-								<p>Chief Executive Officer</p>
-								<div class="team-social">
-									<a href="#"><i class="fab fa-facebook-f"></i></a>
-									<a href="#"><i class="fab fa-twitter"></i></a>
-									<a href="#"><i class="fab fa-google-plus-g"></i></a>
-									<a href="#"><i class="fab fa-linkedin-in"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3  col-md-6">
-						<div class="team-member-box">
-							<div class="team-img">
-								<img src="assets/img/team/tm4.jpg" alt="">
-							</div>
-							<div class="team-text pera-content text-center headline">
-								<h3>Amelia Grace</h3>
-								<p>Chief Executive Officer</p>
-								<div class="team-social">
-									<a href="#"><i class="fab fa-facebook-f"></i></a>
-									<a href="#"><i class="fab fa-twitter"></i></a>
-									<a href="#"><i class="fab fa-google-plus-g"></i></a>
-									<a href="#"><i class="fab fa-linkedin-in"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			
 		</div>
 	</section>
-	--->
 <!-- End of Team section
 	============================================= -->
-
-
-<!-- Start of eltron info section
+	<!-- Start of eltron info section
 	============================================= -->
 	<section id="eltron-info" class="eltron-info-section" data-background="assets/img/background/ibg.jpg">
 		<div class="container">
@@ -119,8 +46,7 @@
 					<div class="info-content clearfix">
 						<div class="section-title-left">
 							<span class="title-tag"><img src="assets/icon/icon5.svg" alt="">Lead The Programs</span>
-							<h2>Using Innovative And
-							Natural Ways For Energy</h2>
+							<h2>Innovative approach and efficiency of Solar EPC</h2>
 						</div>
 						
 					</div>
@@ -141,20 +67,18 @@
 				<p>World class remote monitoring and O&M to maximize operational performance.</p>
 			</div>
 			<div class="testimonial-content">
-				<div class="testimonial-part testimonial-img">
-					<img src="assets/img/background/tbg.jpg" alt="">
-				</div>
+				
 				<div class="testimonial-part testimonial-text-slide">
 					<div id="testimonial-slideid" class="testimonial-slide owl-carousel">
 						<div class="testimonial-slide-text headline pera-content position-relative">
 							<div class="q-icon">
 								<i class="fas fa-quote-right"></i>
 							</div>
-							<h3>“Benefits for the environment”</h3>
+							<h3>“Client Review”</h3>
 							<p>Jaysolar is best in solar power industry. This company has good amount of experience in this solar and UPS industry. It will be able to suggest the right solar solution for small to big projects.</p>
 							<div class="testimonial-img-rate">
 								<div class="testimonial-pic float-left">
-									<img src="assets/img/testimonial/tst1.jpg" alt="">
+									<img src="assets/img/testimonial/avathar_img_1.png" alt="">
 								</div>
 								<div class="testimonial-rate ul-li">
 									<h4>Subbu Rangan</h4>
@@ -173,18 +97,15 @@
 							<div class="q-icon">
 								<i class="fas fa-quote-right"></i>
 							</div>
-							<h3>“Many Benefits for the environment”</h3>
-							<p>At dolore magna aliqua enim veniam quis nostrul
-								minim exercitation ulamco aliquip exa comod sed
-								sequat duis aute irure dolor repreh derit voluptate
-							cillum dol afugiat nula pariatur vitae.</p>
+							<h3>“Benefits for the environment”</h3>
+							<p>Jaysoar solar has been operating in this field since last ten years,</p>
 							<div class="testimonial-img-rate">
 								<div class="testimonial-pic float-left">
-									<img src="assets/img/testimonial/tst1.jpg" alt="">
+									<img src="assets/img/testimonial/avathar.jpg" alt="">
 								</div>
 								<div class="testimonial-rate ul-li">
-									<h4>Donald James</h4>
-									<span>Eltron Company</span>
+									<h4>Vivek</h4>
+									<span>Sofit Services</span>
 									<ul>
 										<li><i class="fas fa-star"></i></li>
 										<li><i class="fas fa-star"></i></li>
@@ -196,6 +117,9 @@
 							</div>
 						</div>
 					</div>
+				</div>
+				<div class="testimonial-part testimonial-img">
+					<img src="assets/img/background/tbg.jpg" alt="">
 				</div>
 			</div>
 		</div>

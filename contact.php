@@ -29,8 +29,7 @@
 					<div class="contact-form-text headline pera-content">
 						<h3>Have a question? Get a
 						Free Consultation  </h3>
-						<p>Dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non
-						proident suntin culpa qui officia deserunt mollitys.</p>
+						<p>Solar power has become the fastest growing source of power in the world. Its growth exceed that of any other like fuel.</p>
 						<div class="el-contact-info">
 							<div class="contact-address">
 								<div class="contact-icon">
