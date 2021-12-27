@@ -7,11 +7,11 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="breadcrumb-content headline">
-				<h2 class="breadcrumb-title">Solar Rooftop</h2>
+				<h2 class="breadcrumb-title">Ground Mounted</h2>
 				<div class="breadcrumb_item ul-li">
 					<ul class="breadcrumb">
 						<li class="breadcrumb-item"><a href="#">Services</a></li>
-						<li class="breadcrumb-item"><a href="#">Rooftop</a></li>
+						<li class="breadcrumb-item"><a href="#">Ground Mounted</a></li>
 					</ul>
 				</div>
 			</div>
@@ -71,30 +71,30 @@
 				</div>
 				<div class="col-lg-8 col-md-12">
 					<div class="service-single-content">
-						<h3>Rooftop Solar Advantage</h3>
+						<h3>Ground Mounted Solar</h3>
 						<article>
-                        Did you know that the energy sun provides to the earth for one hour could meet the global energy needs for one year? Undoubtedly, the sun is a powerful energy source, and even though we are not able but to collect a fraction of this energy, yet harnessing this power by installing solar panels can make a significant difference to the planet.
+						Ground mounted solar panels can be placed anywhere in a open ground or field that sees the sun for the majority of the day. Ground mounting is similar to pole mounting in that it requires a dedicated space in a yard or field to set up the panels. As a result, they are an ideal choice for residential, commercial and agricultural etc.
                     </article>
                         <div class="service-details-img-pair">
 							<div class="row">
 								<div class="col-md-6">
-									<img src="assets/img/service/serd1.jpg" alt="">
+									<img src="assets/img/service/ground-1.jpg" alt="">
 								</div>
 								<div class="col-md-6">
-									<img src="assets/img/service/serd2.jpg" alt="">
+									<img src="assets/img/service/ground-2.jpg" alt="">
 								</div>
 							</div>
 						</div>
-					<h4>Benefits of Eltron Energy</h4>
+					<h5>Advantages of Ground Mount Solar Systems</h5>
 						<article>While it has been widely criticised for being expensive or inefficient, solar energy has now proved to be extremely beneficial - not only for the environment but also for the private economy.</article>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="service-details-list ul-li-block">
-									<ul>
-										<li>Adipisicing elit sed eiusmod incididunt</li>
-										<li>Labore dolore magna aliqua veniam</li>
-										<li>Quis nostrud exercitation ullamco laboris</li>
-										<li>Nisi ut aliquip ex ea consequat duis</li>
+									<ul>										
+									<li>Easy to access and maintain</li>
+										<li>Stronger racking and support</li>
+										<li>Can be oriented to the perfect angle</li>
+										<li>Not restricted so the size of the roof</li>
 									</ul>
 									<article>
 										Enim ad minim veniam, quis nostrud exercitation 
@@ -109,7 +109,7 @@
 								</div>
 							</div>
 							<div class="col-md-6">
-								<img src="assets/img/service/serd1.jpg" alt="">
+								<img src="assets/img/service/ground-3.jpg" alt="">
 							</div>
 						</div>
 						<article>

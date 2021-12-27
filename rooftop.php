@@ -71,7 +71,7 @@
 				</div>
 				<div class="col-lg-8 col-md-12">
 					<div class="service-single-content">
-						<h3>Rooftop Solar Advantage</h3>
+						<h3>Rooftop Solar Panels</h3>
 						<article>
                         Did you know that the energy sun provides to the earth for one hour could meet the global energy needs for one year? Undoubtedly, the sun is a powerful energy source, and even though we are not able but to collect a fraction of this energy, yet harnessing this power by installing solar panels can make a significant difference to the planet.
                     </article>
@@ -85,35 +85,29 @@
 								</div>
 							</div>
 						</div>
-					<h4>Benefits of Eltron Energy</h4>
+					<h5>Advantages of Rooftop Solar Systems</h5>
 						<article>While it has been widely criticised for being expensive or inefficient, solar energy has now proved to be extremely beneficial - not only for the environment but also for the private economy.</article>
 						<div class="row">
 							<div class="col-md-6">
 								<div class="service-details-list ul-li-block">
 									<ul>
-										<li>Adipisicing elit sed eiusmod incididunt</li>
-										<li>Labore dolore magna aliqua veniam</li>
-										<li>Quis nostrud exercitation ullamco laboris</li>
-										<li>Nisi ut aliquip ex ea consequat duis</li>
+										<li>Lower cost than ground mount</li>
+										<li>Requires less installation</li>
+										<li>Utilises otherwise unused space</li>
+										<li>Doesn’t require planning permission</li>
 									</ul>
 									<article>
-										Enim ad minim veniam, quis nostrud exercitation 
-										ullamco laboris nisi ut aliquip exa consequat. Duis
-										aute irure dolor in reprehenderit in voluptate velit
-										esse cillum dolore eu fugiat nulla. 
+									Rooftop solar is an excellent option for smaller properties that don’t have land to spare for a ground mount system. Roof designs utilize space that usually goes unoccupied, so there’s no worry over losing active areas on your property.
 									</article>
-									<article>
-										sunt in culpa qui officia deserunt mollit anim id est
-										laborum sed ipsum ut perspiciatis unde omnis iste natus.
-									</article>
+									
 								</div>
 							</div>
 							<div class="col-md-6">
-								<img src="assets/img/service/serd1.jpg" alt="">
+								<img src="assets/img/service/serd3.jpg" alt="">
 							</div>
 						</div>
 						<article>
-                        To available solar panel grants, as well as, the increasingly competitive prices in the market, solar energy has become the main source of energy for more and more families. The technology has been drastically improved the last years and has been complemented by solar battery storage systems, turning solar into a significantly more efficient source of clean energy.
+            	            To available solar panel grants, as well as, the increasingly competitive prices in the market, solar energy has become the main source of energy for more and more families. The technology has been drastically improved the last years and has been complemented by solar battery storage systems, turning solar into a significantly more efficient source of clean energy.
 						</article>
 						
 					</div>
