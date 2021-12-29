@@ -86,24 +86,9 @@
 					</ul>
 				</nav>
 				<div class="site-search-btn float-right">
-					<!-- <div class="el-search position-relative">
-						<i class="el-search-btn fas fa-search"></i>
-						<div class="search-body">
-							<div class="search-form">
-								<form action="#">
-									<input class="search-input" type="search" placeholder="Search Here">
-									<div class="outer-close el-search-btn">
-										<i class="fas fa-times"></i>
-									</div>
-									<button type="submit" class="search-close">
-										<i class="fas fa-search"></i>
-									</button>
-								</form>
-							</div>
-						</div>
-					</div> -->
+				
 					<div class="con-btn text-center  text-uppercase">
-						<a href="#">Enquiry
+						<a href="contact.php">Enquiry
 							<!-- <i class="flaticon-next"></i> -->
 						</a>
 					</div>
@@ -123,20 +108,19 @@
 					</div>
 					<div class="m-brand-logo text-center" >
 						<a href="index.php"><img src="assets/img/logo/jay-solar-01.svg" alt="" ></a>
-					</div>
-				
-					<nav class="el-mobile-main-navigation  clearfix ul-li">
+					</div>					
+					<nav class="el-mobile-main-navigation  clearfix ul-li ">
 						<ul id="main-nav" class="navbar-nav text-capitalize clearfix">
 						<li><a href="index.php">Home</a></li>
-							<li><a href="about.php">About</a></li>
+							<li><a href="about.php" >About</a></li>
 							<li class="dropdown">
-								<a href="services.php">Services</a>
-								<span>
-									<ul class="dropdown-menu clearfix">
+								<a href="services.php"  class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+								
+									<ul class="dropdown-menu clearfix"  aria-labelledby="navbarDropdown" >
 										<li><a href="rooftop.php">Solar Roof top </a></li>
 										<li><a href="groundmount.php">Solar Ground Mount</a></li>
 									</ul>
-								</span>
+
 							</li>
 							<li><a href="gallery.php">Gallery</a></li>		
 							<li><a href="contact.php">Contact Us</a></li>
@@ -157,7 +141,7 @@
 						</ul>
 					</div>
 					<div class="mobile-consult-btn text-uppercase">
-						<a href="#">Enquiry</a>
+						<a href="contact.php">Enquiry</a>
 					</div>
 				</div>
 			</div>

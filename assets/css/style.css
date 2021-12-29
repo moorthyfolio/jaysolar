@@ -564,13 +564,13 @@ select:visited {
         background-color: #f1c112; }
 
 .site-main-menu {
-  padding: 3px 0px 3px; }
+  padding: 3px 0px 12px }
   .site-main-menu .brand-logo {
     margin-right: 45px; }
   .site-main-menu .navbar-nav {
     display: inline-block;
-    padding-top: 15px;
-    margin-left: 50px; }
+    padding-top: 23px;
+    margin-left: 65px; }
   .site-main-menu .main_navigation {
     display: inline-block; }
     .site-main-menu .main_navigation li {
@@ -579,7 +579,7 @@ select:visited {
         color: #0a69a1;
     font-size: 14px;
     font-weight: 600;
-    padding: 23px 10px 25px;
+    padding: 31px 10px 26px;
     }
 
     .site-main-menu .main_navigation li a:hover {
@@ -598,7 +598,7 @@ select:visited {
     line-height: 0px;
     margin-left: 35px;
     background-color: var(--yellow);
-    margin-top: 7px; }
+    margin-top: 12px; }
     .site-main-menu .site-search-btn .con-btn:before {
       background-color: var(--blue); }
     .site-main-menu .site-search-btn .con-btn a {
@@ -613,7 +613,7 @@ select:visited {
      
 
 .main_navigation.desktop-menu .dropdown-menu {
-  top: 48px;
+  top: 49px;
   left: 0;
   z-index: 100;
   margin: 0px;
@@ -845,7 +845,7 @@ select:visited {
 .slider-style-one .main-slider-img-text {
   z-index: 1; }
   .slider-style-one .main-slider-img-text .background_overlay {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.6);
     z-index: -1; }
   .slider-style-one .main-slider-img-text .slider-content-box {
     max-width: 620px;
@@ -1896,7 +1896,7 @@ select:visited {
   .testimonial-section .testimonial-part {
     width: 50%; }
   .testimonial-section .testimonial-text-slide {
-    padding: 65px 30px 30px 60px;
+    padding: 65px 30px 30px 25px;
     -webkit-transform: translateY(70px);
     -ms-transform: translateY(70px);
     transform: translateY(70px);
@@ -2902,7 +2902,7 @@ select:visited {
   width: 280px;
   overflow-y: scroll;
   background-color: #fff;
-  padding: 70px 0px 40px;
+  padding: 40px 0px 40px;
   -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.19);
   box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.19);
   -webkit-transition: all 0.5s ease-in;
@@ -3020,12 +3020,12 @@ select:visited {
   left: 0;
   background-color: #dcdcdc; }
 .el-mobile_menu .el-mobile_menu_close {
-  color: #d60606;
+  color: #f1c112;
   cursor: pointer;
-  top: 15px;
-  left: 15px;
-  font-size: 20px;
-  position: absolute; }
+  top: 44px;
+  left: 12px;
+  font-size: 25px;
+  position: absolute;}
 
 .mobile-contact-info {
   margin: 30px 0px 10px; }
@@ -3123,7 +3123,7 @@ select:visited {
     width: 200px;
   }
   .site-main-menu .main_navigation li {
-    margin-left: 30px; }
+    margin-left: 15px; }
   #slider-eltron .owl-prev,
   #slider-eltron .owl-next {
     left: 15px; }
@@ -3364,10 +3364,14 @@ select:visited {
     font-size: 20px; }
   .site-info-icon-text .site-info-icon svg {
     height: 55px; }
-  .newslatter-section .newslatter-content .newslatter-form .nws-button button {
-    width: 150px; }
+
     .newslatter-section .newslatter-content .newslatter-form .nws-button button img {
       display: none; }
+  .newslatter-section .newslatter-content .newslatter-text h2 {
+    /* text-align: center; */
+    margin-left: 164px;
+    position: absolute;
+}
   .driven-solution-section {
     padding: 50px 0px; }
   .about-counter .about-counter-text-number .counter-number h4 {
@@ -3505,21 +3509,21 @@ select:visited {
 	color:#ff0000;
 	font-weight:500;	
 }
-/*.owl-prev{
+.testimonial-section .owl-prev{
   width: 15px;
   height: 100px;
   position: absolute;
   top: 40%;
-  margin-left: -20px;
+  margin-left: -20px;    
   display: block !important;
   border:0px solid black;
 }
-.owl-next {
+.testimonial-section .owl-next {
   width: 15px;
   height: 100px;
   position: absolute;
   top: 40%;
-  right: -25px;
+  right: -25px;      
   display: block !important;
   border:0px solid black;
 }
@@ -3527,8 +3531,12 @@ select:visited {
 }
 .owl-slider-height{
   height: 500px;
-}*/
+}
 
 .benfitmenu a{
 cursor: context-menu;
+}
+
+.testimonial-section .owl-carousel .owl-item {  
+  padding: 0 50px;
 }

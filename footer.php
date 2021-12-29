@@ -56,11 +56,11 @@
 								<div class="footer-menu-widget ul-li-block">
 									<h3 class="el-widget-title">Site Map</h3>
 									<ul>
-										<li><a href="#">Home</a></li>
-										<li><a href="#">About</a></li>
-										<li><a href="#">Products</a></li>
-										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Contact</a></li>
+										<li><a href="home.php">Home</a></li>
+										<li><a href="about.php">About</a></li>
+										<li><a href="servicers.php">Services</a></li>
+										<li><a href="gallery.php">Gallery</a></li>
+										<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -70,8 +70,8 @@
 								<div class="footer-menu-widget ul-li-block">
 									<h3 class="el-widget-title">Our Services</h3>
 									<ul>
-										<li><a href="#">Roof top projects</a></li>
-										<li><a href="#">Ground mounted </br>-projects</a></li>
+										<li><a href="rooftop.php">Roof top projects</a></li>
+										<li><a href="groundmount.php">Ground mounted </br>-projects</a></li>
 										<li><a href="#">Solar products</a></li>
 									</ul>
 								</div>

@@ -44,7 +44,7 @@
 								<h3 class="widget-title">Need Help?</h3>
 								<span>Call us or Email</span>
 								<div class="contact-text pera-content headline">
-									<p><i class="icon-call-in"></i><strong>+91 98430 71622<br></strong>
+									<p><i class="fas fa-mobile-alt" style="margin-right: 9px;;"></i><strong>+91 98430 71622<br></strong>
 									kandasamy.jaisolar@gmail.com</p>
 								</div>
 							</div>
@@ -107,7 +107,8 @@
 							</div>
 						</div>
 						<article>
-            	            To available solar panel grants, as well as, the increasingly competitive prices in the market, solar energy has become the main source of energy for more and more families. The technology has been drastically improved the last years and has been complemented by solar battery storage systems, turning solar into a significantly more efficient source of clean energy.
+						<p></p>
+                          To available solar panel grants, as well as, the increasingly competitive prices in the market, solar energy has become the main source of energy for more and more families. The technology has been drastically improved the last years and has been complemented by solar battery storage systems, turning solar into a significantly more efficient source of clean energy.
 						</article>
 						
 					</div>
@@ -117,10 +118,6 @@
 	</section>
 <!-- End of service single section
 	============================================= -->	
-<!-- End of blog details section
-	============================================= -->	
-<!-- include footer starts
-	============================================= -->
 	<?php include "footer.php"; ?>
 <!-- include footer ends
 ============================================= -->

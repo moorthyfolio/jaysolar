@@ -97,14 +97,10 @@
 										<li>Not restricted so the size of the roof</li>
 									</ul>
 									<article>
-										Enim ad minim veniam, quis nostrud exercitation 
-										ullamco laboris nisi ut aliquip exa consequat. Duis
-										aute irure dolor in reprehenderit in voluptate velit
-										esse cillum dolore eu fugiat nulla. 
+									A ground-mounted solar panel system can also increase its energy production with a tracking mechanism, which keeps the PV panels angled toward the sun all day long. 
 									</article>
 									<article>
-										sunt in culpa qui officia deserunt mollit anim id est
-										laborum sed ipsum ut perspiciatis unde omnis iste natus.
+									However, a ground solar panel installation can be designed with an orientation and tilt angle that will maximize the sunlight it captures, which makes the system productive.
 									</article>
 								</div>
 							</div>
@@ -113,7 +109,7 @@
 							</div>
 						</div>
 						<article>
-                        To available solar panel grants, as well as, the increasingly competitive prices in the market, solar energy has become the main source of energy for more and more families. The technology has been drastically improved the last years and has been complemented by solar battery storage systems, turning solar into a significantly more efficient source of clean energy.
+						This way, you can increase your electricity output and electric bill savings without adding more panels. Solar tracking is not an option for most rooftop installations, since tracking devices are not designed for conventional roof structures.
 						</article>
 						
 					</div>

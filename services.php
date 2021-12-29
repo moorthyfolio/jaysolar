@@ -40,12 +40,14 @@
 								<h3>Solar Rooftop</h3>
 								<p>Rooftop solar bringing the energy of the future to you.</p>
 							</div>
+							<a href="rooftop.php">
 							<div class="features-hover-content">								
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Rooftop</h3>
 									<p>The need of Rooftop Solar power plants is increasingly gaining popularity across a wide range of industrial, commercial, and residential sectors due to the relatively lower cost of investments and lesser complexities involved in setting up a plant.</p>								
 								</div>
 							</div>
+							</a>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
@@ -57,12 +59,14 @@
 								<h3>Solar Ground Mounted</h3>
 								<p>We identify system components needed and to generate the optimum output.</p>
 							</div>
+							<a href="groundmount.php">
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Ground Mounted</h3>
 									<p>Ground-mount solar panels can be placed anywhere in a yard or field that sees the sun for the majority of the day. Companies use solar energy and sometimes return it to the main power grid for resale so they can generate renewable energy.</p>
 								</div>
 							</div>
+</a>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
@@ -74,12 +78,14 @@
 								<h3>Solar Products</h3>
 								<p>Solar energy technologies have made generate solar products effectively.</p>
 							</div>
+							<a href="#">
 							<div class="features-hover-content">
 								<div class="features-hover-text headline pera-content">
 									<h3>Solar Products</h3>
 									<p>We are engaged in wholesale distribution of LED Lights, Solar Water Heaters etc., Installation Services which are known for their dimensional accuracy, world class finish and ability to withstand high electric energy.</p>									
 								</div>
 							</div>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -192,13 +198,7 @@
 			<div id="partner-slide-id" class="partner-slider">
 				<div class="partner-img">
 					<img src="assets/img/partner/phocos.jpg" alt="">
-				</div>
-				<div class="partner-img">
-					<img src="assets/img/partner/power_one.jpg" alt="">
-				</div>
-				<div class="partner-img">
-					<img src="assets/img/partner/sunmax.jpg" alt="">
-				</div>
+				</div>			
 				<div class="partner-img">
 					<img src="assets/img/partner/wattmon.jpg" alt="">
 				</div>
@@ -207,6 +207,12 @@
 				</div>
 				<div class="partner-img">
 					<img src="assets/img/partner/hhv_solar.jpg" alt="">
+				</div>
+				<div class="partner-img">
+					<img src="assets/img/partner/power_one.jpg" alt="">
+				</div>
+				<div class="partner-img">
+					<img src="assets/img/partner/sunmax.jpg" alt="">
 				</div>
 			</div>
 		</div>
