@@ -91,10 +91,21 @@
 				</div>
 			</div>
 		</div>
-		<div class="footer-copyright-text text-center">
-			<p>© Copyright 2021© <a href="#">Jay Solar Energy</a></p>
+	<div class="container-fluid">
+		<div class="footer-copyright-text ">
+			<div class="container">
+		<div class="row ">
+			<div class="col-md-6">
+				<p class="text-left text-xs-center">© Copyright 2021© <a href="#">Jay Solar Energy</a></p>
+			</div>		
+			<div class="col-md-6">
+				<p class="text-right text-xs-center" style="float: right;">Designed by <a href="http://dassmartsolutions.com/">Dassolutions</a></p>
 			<div class="copyright-menu">
 			</div>
+			</div>
+		</div>
+		</div>
+		</div>
 		</div>
 	</footer>
 <!-- End of Footer section

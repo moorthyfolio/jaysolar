@@ -352,7 +352,7 @@ div#preloader {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: rgb(255, 255, 255) url("../img/loader.svg") no-repeat center center; }
+  background: rgb(255, 255, 255) url("../img/sungif.gif") no-repeat center center; }
 
 [data-background] {
   background-size: cover;
@@ -1264,7 +1264,9 @@ select:visited {
       .feature-style-two .feature-slide-icon-text {
         min-height: 410px;
       }
-
+      .feature-style-two .feature-slide-icon-text svg {
+       width: 120px;
+    }
 
       .feature-style-two .feature-slide-icon-text:hover .feature-slide-icon svg {
         fill: #f1c112; }
@@ -2456,7 +2458,14 @@ select:visited {
         margin-left: 5px;
         font-size: 22px; }
     .driven-solution-section .features-content .features-icon-text .features-icon svg {
-      fill: #0071b4; }
+      fill: #0071b4; 
+      display: inline-block;
+      height: 115px;
+      overflow: hidden;
+    }
+    .feature-style-two .feature-slide-icon-text .feature-slide-icon svg path{
+      fill: rgb(255, 255, 255) !important;
+  }
     .driven-solution-section .features-content .features-icon-text:hover {
       padding-bottom: 50px; }
   .driven-solution-section .driven-text-content {

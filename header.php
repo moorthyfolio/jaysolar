@@ -114,7 +114,7 @@
 						<li><a href="index.php">Home</a></li>
 							<li><a href="about.php" >About</a></li>
 							<li class="dropdown">
-								<a href="services.php"  class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+								<a href="services.php"  class="nav-link dropdown-toggle" id="navbarDropdown" >Services</a>
 								
 									<ul class="dropdown-menu clearfix"  aria-labelledby="navbarDropdown" >
 										<li><a href="rooftop.php">Solar Roof top </a></li>
