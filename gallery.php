@@ -51,9 +51,9 @@
 						<div class="project-filter-btn ul-li text-center">
 							<div class="button-group portfolio text-uppercase clearfix">
 								<button class="filter-button is-checked" data-filter="*">All</button>
-								<button class="filter-button" data-filter=".branding">Rooftop Projects</button>
+								<button class="filter-button" data-filter=".graphic">Rooftop Projects</button>
 								<button class="filter-button" data-filter=".fashion">Ground Mounted Projects</button>
-								<button class="filter-button" data-filter=".graphic">Solar Products</button>
+								<button class="filter-button" data-filter=".branding">Solar Products</button>
 							</div>
 						</div>
 					</div>
@@ -63,50 +63,81 @@
 				<div class="grid-sizer"></div>
 				<div class="grid-item grid-item-width graphic" data-category="graphic">
 					<div class="projecct-img relative-position">
-						<img src="assets/img/project/pr1-sp.jpg" alt="">
+						<img src="assets/img/project/rooftop-3.jpg" alt="">
 						<div class="project-item-text pera-content headline">
-							<p>Wind Turbine</p>
-							<h3><a href="#">Clean Energy Project</a></h3>
+							<p>Recent Project</p>
+							<h3><a href="#">Rooftop Solar</a></h3>
 						</div>	
 						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
 					</div>
 				</div>
 				<div class="grid-item grid-item-width graphic" data-category="graphic">
 					<div class="projecct-img relative-position">
-						<img src="assets/img/project/pr2.jpg" alt="">
+						<img src="assets/img/project/gm-1.jpg" alt="">
 						<div class="project-item-text pera-content headline">
-							<p>Wind Turbine</p>
-							<h3><a href="#">Clean Energy Project</a></h3>
+							<p>Recent Project</p>
+							<h3><a href="#">Ground Mounted Solar</a></h3>
 						</div>	
 						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
 					</div>
 				</div>
 				<div class="grid-item grid-item-width branding " data-category="branding">
 					<div class="projecct-img relative-position">
-						<img src="assets/img/project/pr3.jpg" alt="">
+						<img src="assets/img/project/rooftop-6.jpg" alt="">
 						<div class="project-item-text pera-content headline">
-							<p>Wind Turbine</p>
-							<h3><a href="#">Clean Energy Project</a></h3>
+							<p>Recent Project</p>
+							<h3><a href="#">Rooftop Solar</a></h3>
 						</div>	
 						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
 					</div>
 				</div>
 				<div class="grid-item .grid-item-big fashion " data-category=" fashion ">
 					<div class="projecct-img relative-position">
-						<img src="assets/img/project/pr4.jpg" alt="">
+						<img src="assets/img/project/gm-6.jpg" alt="">
 						<div class="project-item-text pera-content headline">
-							<p>Wind Turbine</p>
-							<h3><a href="#">Clean Energy Project</a></h3>
+							<p>Recent Project</p>
+							<h3><a href="#">Ground Mounted Solar</a></h3>
+						</div>	
+						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
+					</div>
+				</div>
+				<div class="grid-item grid-item-width fashion " data-category=" fashion ">
+					<div class="projecct-img relative-position">
+						<img src="assets/img/project/gm-3.jpg" alt="">
+						<div class="project-item-text pera-content headline">
+							<p>Recent Project</p>
+							<h3><a href="#">Ground Mounted Solar</a></h3>
+						</div>	
+						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
+					</div>
+				</div>
+
+				<div class="grid-item grid-item-width  featured " data-category=" featured ">
+					<div class="projecct-img relative-position">
+						<img src="assets/img/project/gm-4.jpg" alt="">
+						<div class="project-item-text pera-content headline">
+							<p>Recent Project</p>
+							<h3><a href="#">Ground Mounted Solar</a></h3>
 						</div>	
 						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
 					</div>
 				</div>
 				<div class="grid-item grid-item-width  featured " data-category=" featured ">
 					<div class="projecct-img relative-position">
-						<img src="assets/img/project/pr5.jpg" alt="">
+						<img src="assets/img/project/pr-4.jpg" alt="">
 						<div class="project-item-text pera-content headline">
-							<p>Wind Turbine</p>
-							<h3><a href="#">Clean Energy Project</a></h3>
+							<p>Recent Project</p>
+							<h3><a href="#">Solar Products</a></h3>
+						</div>	
+						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
+					</div>
+				</div>
+				<div class="grid-item grid-item-width  featured " data-category=" featured ">
+					<div class="projecct-img relative-position">
+						<img src="assets/img/project/rooftop-2.jpg" alt="">
+						<div class="project-item-text pera-content headline">
+							<p>Recent Project</p>
+							<h3><a href="#">Rooftop Solar</a></h3>
 						</div>	
 						<a class="popup-project"  data-lightbox="roadtrip" href="assets/img/project/pr1.jpg"></a>
 					</div>
